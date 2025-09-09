@@ -4,16 +4,19 @@ date: 2025-09-08
 layout: post
 ---
 
+
+
+
 > As my heart withers and cracks,  
 > don't blame others,  
-> when I am the one who neglected to water her  
+> I was the one who neglected to water her  
  ... 
 
 > For all the disappointments,  
 > don't blame the era  
 > It would be the abandonment of the dim glow of dignity  
 
-> At least my sensitivity,  
+> At least my own sensitivity,  
 > I must protect it myself  
 > Fool  
 
@@ -43,7 +46,7 @@ layout: post
 <div style="margin-top: 40px;"></div>
 
 
-It's an excerpt from the poem "At Least My Sensitivity" 「自分の感受性くらい」 by Noriko Ibaragi, published in 1977. I bought a collection of her poems curated by Shuntaro Tanikawa when I went back to my hometown in Japan earlier this year ([「茨木のり子詩集」](https://www.iwanami.co.jp/book/b249030.html)). I had known of this poem before, but I wanted to remind myself of its prayer. The poem was influenced by Noriko's own experience living through and after World War II; she was born in 1926, so she was a teenager during the war. 
+It's an excerpt from the poem "At Least My Own Sensitivity" 「自分の感受性くらい」 by Noriko Ibaragi, published in 1977. I bought a collection of her poems curated by Shuntaro Tanikawa when I went back to my hometown in Japan earlier this year ([「茨木のり子詩集」](https://www.iwanami.co.jp/book/b249030.html)). I had known of this poem before, but I wanted to remind myself of its prayer. The poem was influenced by Noriko's own experience living through and after World War II; she was born in 1926, so she was a teenager during the war. 
 
 At the time, there was a strong sentiment in Japan pressuring people to carry out human wave attacks and head toward imminent death to protect imperial Japan. It was called 一億玉砕, which literally translates to "one hundred million shattered jewels." The imagery of shattered jewels was a deliberately chosen phrase to frame death as something instantaneous, beautiful, and honorable. 
 
@@ -72,7 +75,7 @@ For example, if your country is experiencing war, would you run, fight back, pro
 
 In translating the poem, there were a couple of choices I made. 
 
-First was the question of voice: who is actually speaking? In Japanese, the subject is often left unsaid, so it leaves the room for interpretation. Is someone speaking to Noriko, or is she speaking to herself? About halfway through the poem, there is a line "I'm the one was clumsy at everything", so I felt that the poem is like Noriko reflecting on herself with self-discipline. In the translation, I chose to keep it in the first person, hence "my sensitivity" instead of "your sensitivity."
+First was the question of voice: who is actually speaking? In Japanese, the subject is often left unsaid, so it leaves the room for interpretation. Is someone speaking to Noriko, or is she speaking to herself? About halfway through the poem, there is a line "I was the one was clumsy at everything", so I felt that the poem is like Noriko reflecting on herself with self-discipline. In the translation, I chose to keep it in the first person, hence "my sensitivity" instead of "your sensitivity."
 
 
 The second thing was the structure. Japanese grammar usually starts with the condition and then leads to the instruction: "when this happens, don't blame others."  In English, the order is flipped and we usually start with the instruction: "don't blame others for this thing that happened." But doing that makes the poem sound more imperative. I kept the gradual buildup of the original where the situation triggers the internal discipline. 
