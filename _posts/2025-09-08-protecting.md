@@ -16,8 +16,8 @@ layout: post
 > don't blame the era  
 > It would be the abandonment of the dim glow of dignity  
 
-> At least my own sensitivity,  
-> I must protect it myself  
+> At the very least,  
+> protect my own sensitivity myself  
 > Fool  
 
 

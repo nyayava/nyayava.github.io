@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 300 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -78,7 +78,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 h1 {
@@ -226,7 +226,7 @@ table td {
   /* Add these: */
   font-size: 1rem;
   line-height: 1;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
   font-family: "Noto Serif JP";
 }
 
@@ -241,7 +241,7 @@ table td {
   white-space: nowrap;
   font-family: "Noto Serif JP", "Hiragino Mincho Pro", "MS Mincho", serif;
   font-size: 1rem;
-  line-height: 2;
+  line-height: 1.3;
   letter-spacing: 0.1em;
 }
 
@@ -258,7 +258,7 @@ table td {
 .site-title {
   font-size: 27.625px;
   font-weight: 300;
-  line-height: 57.375px;
+  line-height: 61.2px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -269,7 +269,7 @@ table td {
 
 .site-nav {
   float: right;
-  line-height: 57.375px;
+  line-height: 61.2px;
 }
 .site-nav .nav-trigger {
   display: none;
@@ -279,7 +279,7 @@ table td {
 }
 .site-nav .page-link {
   color: #111;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 .site-nav .page-link:not(:last-child) {
   margin-right: 20px;
@@ -438,7 +438,7 @@ table td {
 }
 
 .post-title {
-  font-size: 44.625px;
+  font-size: 34px;
   letter-spacing: -1px;
   line-height: 1;
 }

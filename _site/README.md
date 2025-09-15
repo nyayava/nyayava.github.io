@@ -1,3 +1,1 @@
-# nyayava.github.io
-
-I'll be making changes ... 
+This repository is where I keep materials for the website: nyayava.github.io

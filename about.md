@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
-
-I am a homo sapiens living like an indoor cat. Nyayava is just a little word I created which means "cat's imagination" -- a mashup of nya (にゃ), the Japanese word for meow, and uyava (уява), the Ukrainian word for imagination. 
+ 
+Nyayava is a word I dreamed up to mean 'a cat's imagination', it doesn't exist ... yet. It's a mashup of nya (にゃ), the Japanese meow, and uyava (уява), the Ukrainian word for imagination. I wish I could understand the mysterious thoguhts of a cat and communicate with them. For now, this blog is written by a homo sapiens who embraces the lifestyle of an indoor cat. 
