@@ -431,15 +431,37 @@ table td {
 }
 
 .post-list-heading {
-  font-size: 29.75px;
+  font-size: 23.8px;
 }
 
 .post-list {
   margin-left: 0;
-  list-style: none;
+  padding-left: 0; /* Remove default left padding */
+  list-style: none; /* Remove default bullets/numbers */
 }
+
 .post-list > li {
-  margin-bottom: 30px;
+  display: flex;
+  align-items: baseline; /* align title and date */
+  margin-bottom: 1em;
+}
+
+.post-list > li h3 {
+  order: 1;
+  margin: 0;
+  margin-right: 0.5em; /* space between title and date */
+  flex-shrink: 0; /* prevent shrinking */
+}
+
+.post-list > li .post-meta {
+  order: 2;
+  font-size: 0.9em;
+  color: #666;
+  white-space: nowrap; /* keep date on one line */
+}
+
+.post-list > li h3 a {
+  font-size: 1em; /* You can adjust: try 1em, 0.9em, 16px, etc. */
 }
 
 .post-meta {
@@ -496,6 +518,27 @@ table td {
   .post-content h4 {
     font-size: 19.125px;
   }
+}
+
+/**
+ * Post navigation (to access previous and future blog page) 
+ */
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3em;
+  font-size: 0.9em;
+}
+
+.prev-post,
+.next-post {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.prev-post:hover,
+.next-post:hover {
+  text-decoration: underline;
 }
 
 /**
@@ -698,22 +741,6 @@ table td {
 }
 .highlight .il {
   color: #099;
-}
-
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 
 /*# sourceMappingURL=main.css.map */
