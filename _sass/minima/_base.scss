@@ -275,7 +275,7 @@ table {
   font-size: 1rem;        // adjust font size if needed
   line-height: 1;            // adds spacing between characters
   letter-spacing: 0.1em;     // adds space between characters
-  font-family: "Noto Serif JP"; // "Noto Serif JP", sans-serif, "Hiragino Mincho Pro"
+  font-family: "Noto Serif CJK"; // "Noto Serif JP", sans-serif, "Hiragino Mincho Pro"
 }
 
 
@@ -289,7 +289,7 @@ table {
     text-orientation: upright;
     white-space: nowrap;
 
-    font-family: "Noto Serif JP", "Hiragino Mincho Pro", "MS Mincho", serif;
+    font-family: "Noto Serif CJK", "Hiragino Mincho Pro", "MS Mincho", serif;
     font-size: 1rem;
     line-height: 1.3;
     letter-spacing: 0.1em;
