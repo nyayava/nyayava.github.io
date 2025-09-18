@@ -317,3 +317,16 @@ table {
   height: 100%;
 }
 
+
+
+/**
+ * Footer 
+ */
+.footer-heading a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-heading a:hover {
+  text-decoration: underline;
+}
