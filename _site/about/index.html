@@ -20,6 +20,19 @@
 {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"nyayava"},"description":"language, art, life, random thoughts","headline":"About","name":"nyayava’s blog","url":"http://localhost:4000/about/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="nyayava&apos;s blog" /></head>
+
+
+
+// Font 
+<!-- Preconnect once -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Load multiple fonts in one URL -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;700&display=swap" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;700&family=Noto+Sans+JP:wght@100;300;400;700&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Kosugi&display=swap" rel="stylesheet">
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">nyayava&#39;s blog</a><nav class="site-nav">
@@ -96,3 +109,36 @@
 </body>
 
 </html>
+
+
+// Detect Japanese and format accordingly 
+<!-- <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
+
+    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
+
+    elements.forEach(el => {
+      if (japaneseRegex.test(el.textContent)) {
+        el.setAttribute("lang", "ja");
+      }
+    });
+  });
+</script> -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
+
+    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
+
+    elements.forEach(el => {
+      // Skip if element contains any child with lang="ja"
+      if (el.querySelector('[lang="ja"]')) return;
+
+      if (japaneseRegex.test(el.textContent)) {
+        el.setAttribute("lang", "ja");
+      }
+    });
+  });
+</script>

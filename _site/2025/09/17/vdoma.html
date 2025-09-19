@@ -21,6 +21,19 @@
 {"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"nyayava"},"dateModified":"2025-09-17T00:00:00-04:00","datePublished":"2025-09-17T00:00:00-04:00","description":"最近よく聴いているのが、ウクライナのバンド「АНТИТІЛА（アンティティラ）」の曲。5人組のグループで、メンバーは実際にウクライナ軍の医療隊員として従軍していた経験を持つ。今は音楽を通して、ウクライナの人々の士気を高め、得た収益は軍の支援に充てている。ちなみに、「アンティティラ」は「抗体 (antibodies)」という意味。侵攻に抗い、国の文化や人々の生活の潤いを防衛する姿は、まさにウクライナ体内の抗体のようだ。","headline":"ウクライナの曲「ВДОМА」(ふるさとで)","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2025/09/17/vdoma.html"},"url":"http://localhost:4000/2025/09/17/vdoma.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="nyayava&apos;s blog" /></head>
+
+
+
+// Font 
+<!-- Preconnect once -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Load multiple fonts in one URL -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;700&display=swap" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;700&family=Noto+Sans+JP:wght@100;300;400;700&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Kosugi&display=swap" rel="stylesheet">
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">nyayava&#39;s blog</a><nav class="site-nav">
@@ -84,7 +97,7 @@
 Свої, свої, свої, і всі свої</p>
 </blockquote>
 
-<p>ウクライナの人々にとって、青空は特別な意味を持つのだと感じました。国旗の色も空の青と、麦畑の黄色ですし。「Свої」は英語では「our own」と訳されるようです。（ウクライナ語初心者なので、英語の方のニュアンスをもとに考えると）何かが自分のものだという意味というよりは、誰かが自分たちの仲間であるという意味合いが強いです。歌詞全体の内容から考えると、離れ離れになっているけど、同じ価値観・思い出・属性を共有するウクライナの人々を包み込むような表現だと解釈しています。</p>
+<p>「Свої」の意味ですが、英語では「our own」と訳されるようです。（ウクライナ語初心者なので、英語の方のニュアンスをもとに考えると）何かが自分のものだという意味というよりは、誰かが自分たちの仲間であるという意味合いが強いです。歌詞全体の内容から考えると、離れ離れになっているけど、同じ価値観・思い出・属性を共有するウクライナの人々を包み込むような表現だと解釈しています。</p>
 
 <div style="margin-top: 40px;"></div>
 
@@ -170,3 +183,36 @@
 </body>
 
 </html>
+
+
+// Detect Japanese and format accordingly 
+<!-- <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
+
+    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
+
+    elements.forEach(el => {
+      if (japaneseRegex.test(el.textContent)) {
+        el.setAttribute("lang", "ja");
+      }
+    });
+  });
+</script> -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
+
+    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
+
+    elements.forEach(el => {
+      // Skip if element contains any child with lang="ja"
+      if (el.querySelector('[lang="ja"]')) return;
+
+      if (japaneseRegex.test(el.textContent)) {
+        el.setAttribute("lang", "ja");
+      }
+    });
+  });
+</script>

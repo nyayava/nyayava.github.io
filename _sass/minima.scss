@@ -2,9 +2,16 @@
 
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $base-font-family: -apple-system, BlinkMacSystemFont, 
+// "Segoe UI", Roboto, Helvetica, Arial,
+//   "Yu Gothic", "Meiryo", sans-serif,
+//   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+
+$base-font-family: 'Noto Sans JP', sans-serif !default;
 $base-font-size:   17px !default;
 $base-font-weight: 300 !default;
+
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.6 !default;
 
@@ -19,6 +26,19 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
+
+
+:lang(ja) {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+  font-size: 16px; 
+  line-height: 1.8; 
+}
+
+// 'Noto Serif JP', 'Noto Sans JP', Kosugi, 'M PLUS 1p' 
+
+
+
 
 // Width of the content area
 $content-width:    800px !default;
