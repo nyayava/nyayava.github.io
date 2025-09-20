@@ -568,6 +568,13 @@ section[lang=ja] p {
 }
 
 /**
+ * Figure caption 
+ */
+figcaption {
+  margin-top: 0.5em; /* Adjust this value to increase or decrease the space */
+}
+
+/**
  * Syntax highlighting styles
  */
 .highlight {

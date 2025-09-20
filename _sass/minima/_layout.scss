@@ -334,3 +334,11 @@
 .next-post:hover {
   text-decoration: underline;
 }
+
+
+/**
+ * Figure caption 
+ */
+figcaption {
+  margin-top: 0.5em;  /* Adjust this value to increase or decrease the space */
+}
