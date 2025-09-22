@@ -1,7 +1,11 @@
 ---
 title: Protecting the dim glow of dignity 
 date: 2025-09-08
+year: 2025
 layout: post
+categories: [japan, literature]
+tags: [poem]
+languages: [ja, en]
 ---
 
 
