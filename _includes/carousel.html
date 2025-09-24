@@ -1,4 +1,4 @@
-<div class="swiper mySwiper" style="width: 600px; height: 400px;">
+<!-- <div class="swiper mySwiper" style="width: 600px; height: 400px;">
   <div class="swiper-wrapper">
     {% for img in include.images %}
     <div class="swiper-slide"><img src="{{ img }}" alt="Carousel image" /></div>
@@ -20,4 +20,34 @@
       prevEl: ".swiper-button-prev",
     },
   });
+</script> -->
+
+<div class="swiper mySwiper" style="width: 600px; height: 400px;">
+  <div class="swiper-wrapper">
+    {% assign imgs = include.images | split: ',' %}
+    {% for img in imgs %}
+      <div class="swiper-slide"><img src="{{ img | strip }}" alt="Carousel image" /></div>
+    {% endfor %}
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+
+
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    observer: true,
+    observeParents: true,
+  });
 </script>
+
