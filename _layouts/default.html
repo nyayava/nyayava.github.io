@@ -14,27 +14,16 @@
     </main>
 
     {%- include footer.html -%}
+    <!-- Swiper for photos -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
 
   </body>
 
 </html>
 
 
-<!-- // Detect Japanese and format accordingly  -->
-<!-- <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
-
-    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
-
-    elements.forEach(el => {
-      if (japaneseRegex.test(el.textContent)) {
-        el.setAttribute("lang", "ja");
-      }
-    });
-  });
-</script> -->
-
+<!-- Japanese language detection -->
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
