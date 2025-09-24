@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-24T03:16:04-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Swipeable Photo Gallery</title><link href="http://localhost:4000/2025/09/24/photo-gallery.html" rel="alternate" type="text/html" title="Swipeable Photo Gallery" /><published>2025-09-24T00:00:00-04:00</published><updated>2025-09-24T00:00:00-04:00</updated><id>http://localhost:4000/2025/09/24/photo-gallery</id><content type="html" xml:base="http://localhost:4000/2025/09/24/photo-gallery.html"><![CDATA[<div class="swiper mySwiper" style="width: 600px; height: 400px;">
-  <div class="swiper-wrapper">
-    
-    <div class="swiper-slide"><img src="/images/pumpkin.jpg,/images/pumpkin-bisque.jpg,/images/pumpkin-coffee.jpg" alt="Carousel image" /></div>
-    
-  </div>
-  <div class="swiper-pagination"></div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-</div>
-
-<script>
-  var swiper = new Swiper(".mySwiper", {
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-  });
-</script>]]></content><author><name>nyayava</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">世界各地の独立系雑誌</title><link href="http://localhost:4000/culture/literature/2025/09/21/stack.html" rel="alternate" type="text/html" title="世界各地の独立系雑誌" /><published>2025-09-21T00:00:00-04:00</published><updated>2025-09-21T00:00:00-04:00</updated><id>http://localhost:4000/culture/literature/2025/09/21/stack</id><content type="html" xml:base="http://localhost:4000/culture/literature/2025/09/21/stack.html"><![CDATA[<p>ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス<a href="https://stackmagazines.com/shop/">「Stack Magazines（スタック・マガジンズ）」</a>を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-24T03:35:48-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">世界各地の独立系雑誌</title><link href="http://localhost:4000/culture/literature/2025/09/21/stack.html" rel="alternate" type="text/html" title="世界各地の独立系雑誌" /><published>2025-09-21T00:00:00-04:00</published><updated>2025-09-21T00:00:00-04:00</updated><id>http://localhost:4000/culture/literature/2025/09/21/stack</id><content type="html" xml:base="http://localhost:4000/culture/literature/2025/09/21/stack.html"><![CDATA[<p>ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス<a href="https://stackmagazines.com/shop/">「Stack Magazines（スタック・マガジンズ）」</a>を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。</p>
 
 <p>雑誌には、担当者からの手紙が同封されていて、その号を選んだ理由が綴られています。それを読むと雑誌の背景がちょっとわかるので、読むときの入り口としてちょうどいい感じです。一冊の雑誌の中にはさまざまな人の作品が詰まっているので、ページをめくっていると、毎回何かしら目を引くものに出会います。</p>
 
@@ -100,7 +78,29 @@
 
 <p>“Dear reader, Longing for ghosts is a symptom of discontent with modern society, an indication that the present has become ungraspable and the future sterile. Our interest in ghosts is not a fringe eccentricity that signifies backwardness or sheer fascination with the obscure, but a consequential condition of our times.</p>
 
-<p>This spectral figure of the ghost is, in fact, fed by our constant craving for change, by a nostalgia for a certain something. This certain something may not exist yet, but it can be imagined and then shaped. The ghost is our guide through (im)possible terrains in the making, our reminder that contemplating the unknown, the unpredictable, and the unseen is not some sort of heresy.”</p>]]></content><author><name>nyayava</name></author><category term="culture" /><category term="literature" /><category term="book" /><summary type="html"><![CDATA[ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス「Stack Magazines（スタック・マガジンズ）」を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。]]></summary></entry><entry><title type="html">ウクライナのビール</title><link href="http://localhost:4000/ukraine/culture/2025/09/20/beer.html" rel="alternate" type="text/html" title="ウクライナのビール" /><published>2025-09-20T00:00:00-04:00</published><updated>2025-09-20T00:00:00-04:00</updated><id>http://localhost:4000/ukraine/culture/2025/09/20/beer</id><content type="html" xml:base="http://localhost:4000/ukraine/culture/2025/09/20/beer.html"><![CDATA[<p>先日、ウクライナ系アメリカ人が経営するバーで、ウクライナのビールをいただきました。バーは地下にある隠れ家のような雰囲気で、カウンターにはウクライナの伝統的な陶器や食器類が展示されていました。</p>
+<p>This spectral figure of the ghost is, in fact, fed by our constant craving for change, by a nostalgia for a certain something. This certain something may not exist yet, but it can be imagined and then shaped. The ghost is our guide through (im)possible terrains in the making, our reminder that contemplating the unknown, the unpredictable, and the unseen is not some sort of heresy.”</p>]]></content><author><name>nyayava</name></author><category term="culture" /><category term="literature" /><category term="book" /><summary type="html"><![CDATA[ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス「Stack Magazines（スタック・マガジンズ）」を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。]]></summary></entry><entry><title type="html">Swipeable Photo Gallery</title><link href="http://localhost:4000/2025/09/21/photo-gallery.html" rel="alternate" type="text/html" title="Swipeable Photo Gallery" /><published>2025-09-21T00:00:00-04:00</published><updated>2025-09-21T00:00:00-04:00</updated><id>http://localhost:4000/2025/09/21/photo-gallery</id><content type="html" xml:base="http://localhost:4000/2025/09/21/photo-gallery.html"><![CDATA[<div class="swiper mySwiper" style="width: 600px; height: 400px;">
+  <div class="swiper-wrapper">
+    
+    <div class="swiper-slide"><img src="/images/pumpkin.jpg" alt="Carousel image" /></div>
+    
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+  });
+</script>]]></content><author><name>nyayava</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">ウクライナのビール</title><link href="http://localhost:4000/ukraine/culture/2025/09/20/beer.html" rel="alternate" type="text/html" title="ウクライナのビール" /><published>2025-09-20T00:00:00-04:00</published><updated>2025-09-20T00:00:00-04:00</updated><id>http://localhost:4000/ukraine/culture/2025/09/20/beer</id><content type="html" xml:base="http://localhost:4000/ukraine/culture/2025/09/20/beer.html"><![CDATA[<p>先日、ウクライナ系アメリカ人が経営するバーで、ウクライナのビールをいただきました。バーは地下にある隠れ家のような雰囲気で、カウンターにはウクライナの伝統的な陶器や食器類が展示されていました。</p>
 
 <p>ウクライナのビールは5種類ほどあり、どれにしようか迷っていると、ウクライナの家庭で育ったという店員さんが、気前よくそれぞれのビールの特徴を丁寧に教えてくれました。</p>
 
@@ -310,7 +310,7 @@ this day let us switch off the war for at least one night</p>
 
 <p>しかし、ウクライナの限界が訪れたとき、それがヨーロッパにとって何を意味するのか–さらには、軍事力の強い国を近くに抱える日本を含む他の国々にとって、どんな意味を持つのかを考えると、これはもう自分ごととして捉えざるを得ない。力の強いものが、弱いものの痛みや犠牲の上に富と力を搾取し、それは仕方のないことだからと座視されてしまう世界。</p>
 
-<p>そんな世界に私は住みたくないし、そうした世界に向かわせようとする人を助けたいとも思わない。個人でできることは限られているように感じるが、日々の生活や発言においては、自立を心がけることはできる。生活面において誰かに依存することを減らし、権威を持つ人の発言を鵜呑みにせず、最終的には自分で考えて判断することを意識する。また、自分自身や周りの人に優しい気持ちを持ち、必要があれば人に頼り、頼られたときにはできるだけ応えるようにする。ウクライナについては、たとえば、防空支援や国内ジャーナリズムへの寄付、買い物を通じた経済・文化支援、ニュースや書籍を通して知り続け、考え続ける。仕事においては、私の場合、研究ですが、困難な状況に置かれている人たちが抱える問題を調査・可視化し、解決策を探るような要素を取り組む。</p>
+<p>そんな世界に私は住みたくないし、そうした世界に向かわせようとする人を助けたいとも思わない。個人でできることは限られているように感じるが、日々の生活や発言においては、自立を心がけることはできる。生活面において誰かに依存することを減らし、権威を持つ人の発言を鵜呑みにせず、最終的には自分で考えて判断することを意識する。また、自分自身や周りの人に優しい気持ちを持ち、必要があれば人に頼り、頼られたときにはできるだけ応えるようにする。ウクライナについては、たとえば、防空や国内ジャーナリズムへの送金、買い物を通じた経済・文化の関与、ニュースや書籍を通して知り続け、考え続ける。仕事においては、私の場合、研究ですが、困難な状況に置かれている人たちが抱える問題を調査・可視化し、解決策を探るような要素を取り組む。</p>
 
 <p>そう考えると個人でもやれることはかなりある。ただ、やったことに対する結果がどうなるかはわからないし、むしろ結果なんて見えないまま進むことの方が多いだろう。それは、ナルニアのように現実には存在しない夢物語かもしれない。それでも、混沌の中にあっても、そんな社会を想像しながら歩みつづけるという絶え間ない運動が生きるということなのではないか。</p>
 

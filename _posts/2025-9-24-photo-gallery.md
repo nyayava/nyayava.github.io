@@ -1,6 +1,8 @@
 ---
-layout: post
 title: "Swipeable Photo Gallery"
+date: 2025-09-21
+layout: post
 ---
 
-{% include carousel.html images="/images/pumpkin.jpg,/images/pumpkin-bisque.jpg,/images/pumpkin-coffee.jpg"%}
+
+{% include carousel.html images="/images/pumpkin.jpg"%}
