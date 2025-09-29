@@ -1,6 +1,6 @@
 ---
 title: Policy Analysis - On definining the problem 
-date: 2025-9-29
+date: 2025-9-29 04:15:00 +0900
 year: 2025
 layout: post
 categories: [research]
@@ -44,9 +44,9 @@ There’s no one-size-fits-all approach to problem definition. Instead, there ar
 
 - **Identify systemic problems** when necessary (what book calls latent opportunities). Policy agendas are often driven by complaints, threats, or crises, and require reactive responses that treat the system as fixed. This may be like firefighters responding after a fire starts. In contrast, proactive approaches aim to prevent problems by addressing root causes and questioning the system’s underlying conditions. It’s not about one being more important than the other, but both are needed. When defining a problem, one can avoid narrowing the scope of opportunities to specific solution sets. 
 
-- **Don’t smuggle the solution into the problem definition**. For example, saying “there is too little shelter for homeless families” assumes the solution is more shelters. Instead, state only the problem, like “too many families are homeless,” which allows for a wider range of possible solutions. 
+- **Don’t smuggle the solution** into the problem definition. For example, saying “there is too little shelter for homeless families” assumes the solution is more shelters. Instead, state only the problem, like “too many families are homeless,” which allows for a wider range of possible solutions. 
 
-- **Don’t assume the cause of the problem**. For example, saying “too many parents believe vaccines cause autism” suggests that this belief is the reason for low vaccination rates. However, changing beliefs may not be necessary, as a study indicates that simply requiring vaccines for school entry increased vaccination rates, regardless of beliefs. 
+- **Don’t smuggle the cause** of the problem. For example, saying “too many parents believe vaccines cause autism” suggests that parents' belief is the reason for low vaccination rates. However, changing beliefs may not be necessary, as a study indicates that simply requiring vaccines for school entry increased vaccination rates, regardless of beliefs. 
 
 
 <div style="margin-top: 40px;"></div>
