@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Policy Analysis - On definining the problem | nyayava’s blog</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Policy Analysis - On definining the problem" />
+<meta name="author" content="nyayava" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections." />
+<meta property="og:description" content="This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections." />
+<link rel="canonical" href="http://localhost:4000/research/2025/09/29/policy-step-one.html" />
+<meta property="og:url" content="http://localhost:4000/research/2025/09/29/policy-step-one.html" />
+<meta property="og:site_name" content="nyayava’s blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-29T00:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Policy Analysis - On definining the problem" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"nyayava"},"dateModified":"2025-09-29T00:00:00-04:00","datePublished":"2025-09-29T00:00:00-04:00","description":"This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.","headline":"Policy Analysis - On definining the problem","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/research/2025/09/29/policy-step-one.html"},"url":"http://localhost:4000/research/2025/09/29/policy-step-one.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="nyayava&apos;s blog" /><!-- photo swiper -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <!-- Swiper for photos -->
+   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+</head>
+
+
+
+<!-- // Font  -->
+<!-- Preconnect once -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Load multiple fonts in one URL -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;700&display=swap" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;700&family=Noto+Sans+JP:wght@100;300;400;700&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Kosugi&display=swap" rel="stylesheet">
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">nyayava&#39;s blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/categories.html">Categories</a><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+
+
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Policy Analysis - On definining the problem</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2025-09-29T00:00:00-04:00" itemprop="datePublished">Sep 29, 2025
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>This is a reflection on <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.</p>
+
+<p>The 8-fold path outlined in the book is:</p>
+<ol>
+  <li>Define the problem</li>
+  <li>Assemble some evidence</li>
+  <li>Construct the alternatives</li>
+  <li>Select the criteria</li>
+  <li>Project the outcomes</li>
+  <li>Confront the trade-offs</li>
+  <li>Stop, focus, narrow, deepen, decide</li>
+  <li>Tell your story</li>
+</ol>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="define-the-problem">Define the problem</h4>
+<p>There’s no one-size-fits-all approach to problem definition. Instead, there are some pointers to help frame the problem and pitfalls to avoid.</p>
+
+<ul>
+  <li>
+    <p>Consider <strong>who is experiencing the problem?</strong> (the book calls this the issue of rhetoric). Problems are often framed by clients within a specific political context; they may define issues narrowly as technical issues or frame it in ways that deviates largely from the public. For example, the problem may be defined by those that are vocal or articulate, who may represent extreme positions. Policy analysts typically aim for a consensus using the normative standard of ‘maximizing overall welfare’.</p>
+
+    <p>— I am curious about the benefit of defining a problem in a bottom-up way, as experienced by vulnerable groups who may not have the opportunity to voice their problems to appropriate platforms. That is, intentionally asking: whose voice is missing? And how can the societal system reduce their burden? This does not necessarily have to be a zero-sum situation, where the ‘other’ group is harmed. Everyone is vulnerable in some way. Centering the problem definition around the most vulnerable in a particular aspect under consideration could lead us to consider inclusive actions that benefit the majority, including the vulnerable. For example, having slopes in addition to (or instead of) stairs benefits not only those who use wheeled devices but also those who do not. 
+  <!-- <span style="color:#888888;"></span> --></p>
+  </li>
+  <li>
+    <p>Explain <strong>why does the problem matter?</strong> (the book describes it as ‘making the definition evaluative’). A problem means someone sees something wrong, but “wrong” is debatable. Even if everyone agrees on the facts, they may not agree those facts are a problem (!).</p>
+
+    <p>For example, 65% of food consumed in Japan comes from abroad; some see this as a problem, others don’t. Also, some problems are so private or localized that government intervention may not help. The problem definition should explain why it matters, not just to a small group, but broadly to the public. Rephrasing the previous problem as ‘heavy reliance on imported food risks food supply’ This way, it becomes a shared concern of access to food. Potential causes of food supply disruption, like political or transport failures, are causal claims, so I’ll omit them from the problem definition for now.</p>
+  </li>
+  <li>
+    <p><strong>Make the statement objective</strong> when possible. Problem definitions should include quantified features when possible; how much is too high or too little? For example, saying “too many people with annual incomes over $60k live in subsidized housing” is clearer than claims about the “relatively well-off.”</p>
+
+    <p>My question is how is this number, $60k, determined? This itself requires research, as it likely depends on local housing costs, household expenses, etc.</p>
+  </li>
+  <li>
+    <p><strong>Identify systemic problems</strong> when necessary (what book calls latent opportunities). Policy agendas are often driven by complaints, threats, or crises, and require reactive responses that treat the system as fixed. This may be like firefighters responding after a fire starts. In contrast, proactive approaches aim to prevent problems by addressing root causes and questioning the system’s underlying conditions. It’s not about one being more important than the other, but both are needed. When defining a problem, one can avoid narrowing the scope of opportunities to specific solution sets.</p>
+  </li>
+  <li>
+    <p><strong>Don’t smuggle the solution into the problem definition</strong>. For example, saying “there is too little shelter for homeless families” assumes the solution is more shelters. Instead, state only the problem, like “too many families are homeless,” which allows for a wider range of possible solutions.</p>
+  </li>
+  <li>
+    <p><strong>Don’t assume the cause of the problem</strong>. For example, saying “too many parents believe vaccines cause autism” suggests that this belief is the reason for low vaccination rates. However, changing beliefs may not be necessary, as a study indicates that simply requiring vaccines for school entry increased vaccination rates, regardless of beliefs.</p>
+  </li>
+</ul>
+
+<div style="margin-top: 40px;"></div>
+
+<p>While defining the problem, we need to be aware of the <strong>limitations of the government intervention</strong>. Government intervention does not guarantee improvement, as its incentives may not lead to efficient outcomes or fair distribution. There are several sources of government failure:</p>
+<ul>
+  <li>In direct democracy, where citizens vote directly on policies, it can lead to the <strong>majority imposing high costs on minorities</strong>. While this may maximize overall welfare, it can harm smaller groups.</li>
+  <li>In representative democracy, where citizens vote officials, the elected officials may be more <strong>influenced by organized groups</strong> than by the general public. Politicians often <strong>focus on short-term results</strong> to get reelected, rather than long-term policy effects.</li>
+  <li>Rigid <strong>government procedures can impose restrictions</strong> on timeline, budget, and other resources, thereby limiting the range of realistic policy options to a small subset.</li>
+</ul>
+
+  </div><a class="u-url" href="/research/2025/09/29/policy-step-one.html" hidden></a>
+</article>
+
+
+
+
+<div class="post-navigation">
+  
+    <a class="prev-post" href="/ukraine/art/2025/09/28/porcelain.html">&larr; ウクライナの映画「Porcelain War」（陶の戦）</a>
+  
+  
+  
+</div>
+
+      </div>
+    </main>
+<!-- <footer class="site-footer">
+  <div class="container">
+    <p>
+      &copy; 2025 nyayava's blog
+    </p>
+  </div>
+</footer> -->
+
+
+
+<footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">nyayava&#39;s blog</h2> -->
+     <h2 class="footer-heading">
+      <a href="/">nyayava&#39;s blog</a> 
+     </h2>
+
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">nyayava</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>language, art, life, random thoughts
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
+
+
+
+
+<!-- Japanese language detection -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const japaneseRegex = /[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/;
+
+    const elements = document.querySelectorAll("p, li, h1, h2, h3, h4, h5, h6");
+
+    elements.forEach(el => {
+      // Skip if element contains any child with lang="ja"
+      if (el.querySelector('[lang="ja"]')) return;
+
+      if (japaneseRegex.test(el.textContent)) {
+        el.setAttribute("lang", "ja");
+      }
+    });
+  });
+</script>
