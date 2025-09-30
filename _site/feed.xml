@@ -1,5 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-29T18:24:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On gathering evidence</title><link href="http://localhost:4000/research/2025/09/29/evidence.html" rel="alternate" type="text/html" title="Policy Analysis - On gathering evidence" /><published>2025-09-29T05:00:00-04:00</published><updated>2025-09-29T05:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/evidence</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/evidence.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-29T23:35:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On constructing alternatives</title><link href="http://localhost:4000/research/2025/09/29/policy-options.html" rel="alternate" type="text/html" title="Policy Analysis - On constructing alternatives" /><published>2025-09-29T10:15:00-04:00</published><updated>2025-09-29T10:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-options</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-options.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.</p>
+
+<p>Policy options should be comprehensive, though not necessarily mutually exclusive. The idea is to start with a broad list, then discard obvious nonstarters, combine or reorganize others into a basic alternative with possible variants. The book also offers helpful tips for making the list more comprehensive and creative:</p>
+
+<ul>
+  <li>
+    <p>There are some helpful <strong>lists of actions governments</strong> can take for different types of problems (included in the appendix of the book). For example, in service provision, options might include adding a new service, expanding an existing one, reaching out to underserved groups, or tailoring services to specific subpopulations. These examples help stretch the imagination when brainstorming policy options.</p>
+  </li>
+  <li>
+    <p>Another approach is to use <strong>thought experiments by asking “what if”</strong> questions, such as “What if cost weren’t a constraint?”</p>
+  </li>
+  <li>
+    <p><strong>Drawing analogies</strong> from other contexts can be helpful during the brainstorming phase. 
+  However, I think in higher-stakes situations, it’s necessary to analyze whether the two cases are truly comparable. For example, claims like “Ukraine should surrender because it worked for Japan” are meaningless without a clear explanation of how the contexts align, which, in this case, they clearly don’t. Similarly, saying “Person A did this and it worked, so I must do it too” is risky logic. It’s fine to take inspiration from others, but always recognize that their circumstances are <em>never truly comparable</em> to your own. I often catch myself falling into this logic trap, so this is a note to self.</p>
+  </li>
+  <li>
+    <p>What should always be concluded in the options is a <strong>“business-as-usual”</strong>. I suppose this serves as a baseline; any proposed alternative should ideally improve on the current problem (although it could introduce new problems), or at least not make things worse.</p>
+  </li>
+  <li>
+    <p>Policy analysts should also consider <strong>natural changes</strong> that could affect the scope of the problem, such as political shifts (e.g., after elections), business cycle fluctuations (e.g., unemployment), demographic trends (e.g., migration), or evolving technologies. This helps you consider policy options whilst accounting for inevitable changes, opening up possibilities that wouldn’t arise if you treated the current state as fixed.</p>
+  </li>
+  <li>
+    <p>Another option to include is <strong>“learn more”</strong>, which can involve running pilot programs, waiting for more information, or gathering stronger evidence. 
+  While this often sounds like an obvious good, almost like a mantra (especially in statistics conferences where “strong evidence” seems to be treated as indisputably rigorous and a good practice), I think it’s worth considering that there is a trade-off: what is the cost of inaction, or waiting for stronger evidence. Delays can have real, sometimes deadly consequences. For instance, delaying an organ transplant decision could mean losing both patients, where making a decision would have saved one life. Similarly, hesitation in providing military aid, such as the delayed defensive support to Ukraine pointed out during the Biden administration, resulted in loss of lives in Ukraine. Sometimes, the best decision is to make a decision, even with imperfect information. Of course, there’s also a flip side; some decisions made too quickly could have been much better with a bit of waiting. So it goes both ways. But again, since we’re in the brainstorming phase, the “learn more” option can stay for now; it might be ruled out later due to its known risks during later stages of the policy analysis.</p>
+  </li>
+  <li>
+    <p>If the options involve a <strong>continuum</strong>, like deciding appropriate rental rates for public housing, theoretically every penny change is a different option. A cleaner approach is to first establish the upper and lower limits of the acceptable range, then choose points within that range using ‘reasonable’ increments relative to the current rental rate (psychologically, an increment of around $25 might feel ‘right’).</p>
+  </li>
+  <li>
+    <p>Think about the mechanism of the problem.</p>
+    <ul>
+      <li>
+        <p>Understanding the causal mechanism of a problem sounds like a necessary step to thinking about policy options or interventions, but <strong>understanding the causal mechanism actually not always required (!)</strong> Of course, it can be very helpful to understand the mechanism, as it helps narrow down possible intervention points, but it’s not always required or possible. For example, in the low vaccination example: if parents’ belief that vaccines cause autism is the actual reason their child is not vaccinated, the intervention to increase vaccination could still be something different, like imposing a school enrollment requirement.</p>
+      </li>
+      <li>
+        <p>Nonetheless, thinking about the mechanism of the problem, however complex, helps us better get a sense of its nature, potential interventions, and how those interventions might affect the situation. The book describes some basic models:</p>
+
+        <p><strong>Market models</strong> — understanding flows like patients into hospitals in terms of <strong>supply and demand</strong>. Standard strategies to fix market problems usually involve raising or lowering prices faced by suppliers or demanders. In this example, it might mean increasing hospital bed availability, reducing demand by shifting care to home settings for less serious cases, and so on.</p>
+
+        <p><strong>Production models</strong> — optimizing production to identify key factors affecting output, such as whether hiring more factory workers, having them work more hours (possible nightmare), or changing the assembly line order could increase efficiency.</p>
+
+        <p><strong>Conformity models</strong> — peer effects where <strong>people adapt their actions based on those around them</strong>. For example, hanging posters in schools warning against suicide can fail because it may unintentionally normalize the behavior, making students think it’s common and acceptable. The book suggests effective interventions leverage this tendency to think and act like others.</p>
+
+        <p>This last point made me think about controlling people’s beliefs and behaviors via online marketing, which I think raises new issues. Surely, it is effective for the one making the intervention and benefiting from the change, but I don’t think that should be the ultimate endpoint. Something to ponder.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>While compiling all these ideas into a comprehensive list helps ensure we don’t miss important action points, I’m wondering if it’s also possible to complement this with a quantitative approach (not to replace the qualitative work, but to support it, especially given how exhaustive this step is, and considering that we’re not in a high-stakes phase). For instance, we could input variables related to the problem and systematically apply different actions to each of them, all within the constraints and assumptions defined by the models above.</p>
+
+<p>When creating policy options, it’s helpful to be <strong>detailed</strong>, especially about expected behaviors. Clearly describe what people involved in implementation would actually do differently compared to the current practice. For example, increasing facility inspections from once a year to twice a year.</p>
+
+<p>Once all options are brainstormed and detailed, <strong>conceptualize and simplify</strong> them. The key to conceptualization is using simple sentences and plain, short phrases stripped of jargon. Then, distinguish between a basic strategy and its variants. I think this process helps <strong>reveal the underlying core structure and logic of policy options</strong>.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.]]></summary></entry><entry><title type="html">Policy Analysis - On gathering evidence</title><link href="http://localhost:4000/research/2025/09/29/evidence.html" rel="alternate" type="text/html" title="Policy Analysis - On gathering evidence" /><published>2025-09-29T05:00:00-04:00</published><updated>2025-09-29T05:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/evidence</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/evidence.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.</p>
 
 <blockquote>
   <p>All of your time doing a policy analysis is spent on two activities: thinking and hustling data that can be turned into evidence. Of these two activities, thinking is generally the more important, but hustling data takes much more time… the real-world settings in which policy analysis is done rarely afford the time for a research effort that would please a careful academic researcher. In fact, time pressure is probably almost as dangerous an enemy of high-quality policy analysis as is politically motivated bias, if not more so. Therefore, economize on your data collection activities. The key to economizing is this: try to collect only those data that can be turned into information that in turn can be converted into evidence. (p. 14)</p>
@@ -93,7 +146,7 @@
 <div style="margin-top: 40px;"></div>
 
 <h4 id="ウクライナがウクライナであり続けるための創作活動">ウクライナがウクライナであり続けるための創作活動　</h4>
-<p>戦争が日常を蝕んでいく一方で、それでもなお、人々の生活を支えるものがある。自然や生き物、芸術、笑いが、戦争下に生きる人々にとって、癒しの薬となっている。スラバとアーニャが作った小さな子どもドラゴンの陶磁器の生き物を、兵士たちがお守りのように大切に手にする姿は印象的だ。ハルキウの自宅で、陶磁器の生き物を成形するスラバと、それに細やかな絵を描くアーニャたちの没頭した様子は、まるで瞑想をしているかのようだ。戦争についてアーニャは「この戦争によって、人の底知れぬ善良さが浮き彫りになった」とも言う。スラバは「人を怖がらせることはさほど難しくない。でも、生きることを封じることは難しい。ウクライナはまるで陶磁器のようだ。傷つきやすいが、破壊することは決してできない」と続ける。</p>
+<p>戦争が日常を蝕んでいく一方で、それでもなお、人々の生活を支えるものがある。自然や生き物、芸術、笑いが、戦争下に生きる人々にとって、癒しの薬となっている。スラバとアーニャが作った小さな子どもドラゴンの陶磁器の生き物を、兵士たちがお守りのように大切に手にする姿は印象的だ。ハルキウの自宅で、陶磁器の生き物を成形するスラバと、それに細やかな絵を描くアーニャたちの没頭した様子は、まるで瞑想をしているかのようだ。戦争についてアーニャは「この戦争によって、人の底知れぬ善良さが浮き彫りになった」とも言う。スラバは「人を怖がらせることはさほど難しくない。でも、生きることを封じるのは難しい。ウクライナはまるで陶磁器のようだ。傷つきやすいが、破壊することは決してできない」と続ける。</p>
 
 <p>ドキュメンタリーに登場する芸術家たちの作品は、いずれも息を呑むほど美しい。アンドリーが描く<a href="https://www.andreystefanov.com/">クリミアの風景</a>は淡い色合いの世界が広がっていて、アーニャとスラバが作る<a href="https://www.porcelainbeasts.com/meet-the-beasts">陶磁器の生き物たち</a>は、まるまるとした愛らしい形をしていて、その艶やかな目にはまるで命が宿っているかのようだ。創作について、アーニャは「季節の変わり目に興味があり、自然からインスピレーションを受ける」と話している。彼女の細やかな筆遣いと、柔らかくも鮮やかな色彩の感性には魅了される。同時に、四季の移ろいを楽しむ日本の感覚とも通じる、どこか懐かしい親しみも感じられる。また、陶磁器に描かれた絵が動くシーンがあるが、これはポーランドのアニメーション会社によるものである。戦争に蝕まれる生き物の姿や、色鮮やかな世界を糸で紡ぐ描写は、実写の映像とはまた違った、慈しみ深い表現に感じる。</p>
 
