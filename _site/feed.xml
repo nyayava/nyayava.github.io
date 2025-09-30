@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-30T07:38:44-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On projecting the outcome</title><link href="http://localhost:4000/research/2025/09/30/project.html" rel="alternate" type="text/html" title="Policy Analysis - On projecting the outcome" /><published>2025-09-30T07:00:00-04:00</published><updated>2025-09-30T07:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/project</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/project.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-30T08:19:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On confronting the trade-offs</title><link href="http://localhost:4000/research/2025/09/30/tradeoff.html" rel="alternate" type="text/html" title="Policy Analysis - On confronting the trade-offs" /><published>2025-09-30T08:00:00-04:00</published><updated>2025-09-30T08:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/tradeoff</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/tradeoff.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.</p>
+
+<div style="margin-top: 40px;"></div>
+
+<p>If there is a single option that is better in all aspects considered, then there is no <strong>trade-off among the outcomes of different options</strong>. Some policy options are better in certain aspects, while others perform better in different areas in terms of the outcome (again, not to be confused with trade-offs among the options themselves). For example, instead of simply comparing “more police patrols” versus “new police vehicles,” compare the actual crime reduction each option might achieve and the cost savings they offer.</p>
+
+<p>Trade-offs often involve <strong>balancing costs and benefits</strong>, so it helps to <strong>standardize metrics</strong> in monetary terms to allow for direct comparison. However, some things, like the value of life, are difficult to quantify in dollars, so break-even threshold analysis can be used to determine the minimum benefits needed to justify the costs.</p>
+
+<p>Another helpful concept is the <strong>margin</strong>; the smallest incremental change in cost, and comparing the corresponding change in outcome. For example, what cost is required to achieve an additional X units of outcome? Then, compare this cost-effectiveness across different options.</p>
+
+<p>Then comes the step to <strong>narrow the list</strong> to the most promising options using a base scenario as a reference point. The base scenario doesn’t have to be business as usual; it can reflect the outcome of a policy that has already been implemented. The final, narrowed list (which can contain multiple options) should be both relatively effective and feasible to implement.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the reflection of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.]]></summary></entry><entry><title type="html">Policy Analysis - On projecting the outcome</title><link href="http://localhost:4000/research/2025/09/30/project.html" rel="alternate" type="text/html" title="Policy Analysis - On projecting the outcome" /><published>2025-09-30T07:00:00-04:00</published><updated>2025-09-30T07:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/project</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/project.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.</p>
 
 <div style="margin-top: 40px;"></div>
 
@@ -440,163 +450,4 @@
   <li>ギター: ドミトロ・ジョールドゥ (Dmytro Zholud / Дмитро Жолудь)</li>
   <li>バス: ミハイロ・チルコ  (Mykhailo Chyrko / Михайло Чирко)</li>
   <li>ドラム: ドミトロ・ヴォドヴォゾフ  (Dmytro Vodovozov / Дмитро Водовозов)</li>
-</ul>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="culture" /><category term="music" /><summary type="html"><![CDATA[最近よく聴いているのが、ウクライナのバンド「АНТИТІЛА（アンティティラ）」の曲。5人組のグループで、メンバーは実際にウクライナ軍の医療隊員として従軍していた経験を持つ。今は音楽を通して、ウクライナの人々の士気を高め、得た収益は軍の支援に充てている。ちなみに、「アンティティラ」は「抗体 (antibodies)」という意味。侵攻に抗い、国の文化や人々の生活の潤いを防衛する姿は、まさにウクライナ体内の抗体のようだ。]]></summary></entry><entry><title type="html">ウクライナの詩「Нарнія」(ナルニア)</title><link href="http://localhost:4000/ukraine/literature/2025/09/15/narnia.html" rel="alternate" type="text/html" title="ウクライナの詩「Нарнія」(ナルニア)" /><published>2025-09-15T00:00:00-04:00</published><updated>2025-09-15T00:00:00-04:00</updated><id>http://localhost:4000/ukraine/literature/2025/09/15/narnia</id><content type="html" xml:base="http://localhost:4000/ukraine/literature/2025/09/15/narnia.html"><![CDATA[<h4 id="ナルニア">ナルニア</h4>
-<p>ウクライナの詩人、ドミトリー・ブリズニュークによる詩『ナルニア』より一節：</p>
-
-<div style="margin-top: 20px;"></div>
-
-<blockquote style="font-size: 17px; line-height: 2;">
-今日ははだかで眠ることにしよう  <br />
-ただの夫婦　恋人のように   <br />
-服を全てぬいで   <br />
-ズボンにカーディガン　スウェット <br />
-パーカーには   <br />
-パスポート　薬　USBメモリ　現金   <br />
-カギ　クレジットカード　ケータイの充電器が   <br />
-入ってる   <br />
-くつもくつしたも　ぬいで  <br /> 
-夜中にロケットが家を直撃することを恐れずに   <br />
-生きのびて   <br />
-ポーランドへ　ナルニアへ  <br />
-星あかりの冬の闇をくぐりぬけて　ひなんしなければ   <br />
-それよりも　今夜は平和なくらしの   <br />
-祭りの宣言をしよう  <br />
-はだかになって抱き合い　なにもかも気にせずに眠ろう   <br />
-私たちの肌が   <br />
-体が信頼とやさしさを思い出せるように   <br />
-今日は一晩だけでも戦争のスイッチを切ろう   <br />
-</blockquote>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="narnia">Narnia</h4>
-<p>Exercpt from <em>Narnia</em>, by Dmitry Blizniuk, a Ukrainian poet based in Kharkiv<br />
-Translated from Russian by Yana Kane<br />
-Edited by Bruce Esrig</p>
-
-<blockquote>
-  <p>today let us go to sleep naked<br />
-like an ordinary husband and wife like lovers<br />
-take off all our clothes pants cardigans sweats parkas<br />
-stuffed<br />
-with passports medicines flash drives cash<br />
-keys credit cards cell phone chargers<br />
-let us take off our shoes and socks let us<br />
-not fear that during the night a rocket will hit our home<br />
-but we will survive and have to run<br />
-through the starlit winter darkness into poland into narnia<br />
-instead let us declare this evening a festival<br />
-of peaceful life<br />
-strip naked embrace and fall asleep without a care<br />
-let our skin<br />
-our bodies remember trust tenderness<br />
-this day let us switch off the war for at least one night</p>
-</blockquote>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="нарнія"><em>Нарнія</em></h4>
-<p>уривок<br />
-Дмитро Близнюк</p>
-
-<blockquote>
-  <p>давай сьогодні ляжемо спати голі<br />
-як нормальні чоловік і дружина як коханці<br />
-знімемо усі речі штани кофти куртки набиті<br />
-паспортами ліками флешками готівкою <br />
-ключами кредитками зарядками для мобільників <br />
-знімемо взуття шкарпетки давай сьогодні <br />
-не будемо боятися що вночі до нашої оселі <br />
-прилетить снаряд а ми виживемо і нам доведеться бігти <br />
-крізь зимову зіркову в Польщу Нарнію давай <br />
-сьогодні ввечері влаштуємо свято  <br />
-мирного життя<br />
-роздягнемося догола обіймемося і спокійно заснемо <br />
-нехай наша шкіра <br />
-і тіла згадають довіру ніжність <br />
-давай сьогодні хоч на одну ніч вимкнемо війну</p>
-</blockquote>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="詩の背景">詩の背景　</h4>
-
-<p>『ナルニア』が書かれたのは、ロシアによるウクライナ侵略が始まったばかりの2022年3月です。ウクライナ東部の都市ハルキウが、激しい攻撃にさらされる中、現地に暮らす詩人ドミトリー・ブリズニュークさんによって書かれました。原文を読むと、カンマがなかったり、行の切れ目が不揃いなのがわかります。ドミトリーさん曰く「砲撃の最中と、爆撃の合間の静けさの中で、思いつくままに書きました。今、殺されるかもしれない、あるいは1時間後かもしれない。そんな状況が延々と続いているという、暗く狂った現実をそのまま伝えるために、あえて修正はしませんでした」</p>
-
-<p>ハルキウはロシア国境に近いこともあって、住民の多くがロシア語を話す地域でした。この詩も最初はロシア語で書かれていました。その元のロシア語の英訳を手がけたのが、旧ソ連出身で今はアメリカに暮らすヤナ・ケインさん。私は彼女の英訳を2023年10月に刊行されたアメリカの文芸誌 <a href="https://stackmagazines.com/magazine/american-chordata-13/"><em>American Chordata</em></a> で読みました。ヤナさんは他にも、戦争下で生きている人々のロシア語の文章の英訳を手がけており、詳しくは、<a href="https://worldliteraturetoday.org/blog/translation/different-coin-equal-sum-translating-kopilka-poetry-witness-and-antiwar-protest">World Literature Today の記事</a>で読むことができます。</p>
-
-<p>ウクライナにはロシア語を母語とする人が多いものの、最近は意識的にウクライナ語を使う人が増えているようです。この詩もロシア語からウクライナ語に書き直されており、その原文と英訳は、雑誌 <em>the other side of hope</em> の<a href="https://othersideofhope.com/uploads/1/3/7/3/137328322/dmitry_blizniuk.pdf">ウェブサイト</a>で読むことができます。</p>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="想像される状況">想像される状況　</h4>
-
-<p>戦争は4年目に入ったけれど、詩に書かれているような状況は今も続いている。夜中は毎日のように空襲警報が鳴り、ミサイルによって民間人がランダムに死んでいく、生殺しのような状況。そんな中でも、日常を自分らしく生きようとする人々がいる。ウクライナの外の世界では、「戦争はまだまだ続くだろう」と最もらしい予測が語られるが、実際にこの生活を強いられている渦中の人々にとって、その言葉を聞くのは堪え難い状況なのではないかと想像する。ヨーロッパの人々が静かな夜を過ごしていられるのは、静かな夜を必死に求めながらも、ウクライナの土地で暮らし続けているウクライナの人々がいるからなのだ。</p>
-
-<p>しかし、ウクライナの限界が訪れたとき、それがヨーロッパにとって何を意味するのか–さらには、軍事力の強い国を近くに抱える日本を含む他の国々にとって、どんな意味を持つのかを考えると、これはもう自分ごととして捉えざるを得ない。力の強いものが、弱いものの痛みや犠牲の上に富と力を搾取し、それは仕方のないことだからと座視されてしまう世界。</p>
-
-<p>そんな世界に私は住みたくないし、そうした世界に向かわせようとする人を助けたいとも思わない。個人でできることは限られているように感じるが、日々の生活や発言においては、自立を心がけることはできる。生活面において誰かに依存することを減らし、権威を持つ人の発言を鵜呑みにせず、最終的には自分で考えて判断することを意識する。また、自分自身や周りの人に優しい気持ちを持ち、必要があれば人に頼り、頼られたときにはできるだけ応えるようにする。ウクライナについては、たとえば、防空や国内ジャーナリズムへの送金、買い物を通じた経済・文化の関与、ニュースや書籍を通して知り続け、考え続ける。仕事においては、私の場合、研究ですが、困難な状況に置かれている人たちが抱える問題を調査・可視化し、解決策を探るような要素を取り組む。</p>
-
-<p>そう考えると個人でもやれることはかなりある。ただ、やったことに対する結果がどうなるかはわからないし、むしろ結果なんて見えないまま進むことの方が多いだろう。それは、ナルニアのように現実には存在しない夢物語かもしれない。それでも、混沌の中にあっても、そんな社会を想像しながら歩みつづけるという絶え間ない運動が生きるということなのではないか。</p>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="訳について">訳について</h4>
-
-<p>詩の和訳は、英訳をもとにしました。ただ、伝言ゲームのように意味がずれていくことのないように、ウクライナ語の原文も初心者なりに一語一句確認しながら、英訳との大きなズレがないか見ました。</p>
-
-<p>ただ、この詩は「砲撃の最中と、爆撃の合間の静けさの中で、思いつくままに」書かれたものなので、原文にはが表記の乱れがあります。その状況を想像しながら訳を考えました。</p>
-
-<ul>
-  <li>表記の乱れ　
-    <ul>
-      <li>原文にはほんど句読点がなく、小文字のみで書かれていて、行の切れ目にも揺らぎがあります。急いで書かれたのかもしれません。噛み締めるように書いたところもあるのかもしれません。ただ、それをそのまま句読点がない日本語にすると読みづらいので、代わりにスペースを入れました。</li>
-    </ul>
-  </li>
-  <li>漢字、ひらがな、カタカナの選択
-    <ul>
-      <li>
-        <p>ドミトリーさんによると、当時は停電が続いていたそうで、元が手書きかどうかははっきりしませんが、手書きだったのではないかと想像して訳しています。日本語を手書きで思いつくままに書く場合、画数の多い漢字は少し時間がかかるため避けるだろうと考えました。また、漢字にするとどうしても正式な印象が強くなり、それがこの詩の持つ切迫感とずれてしまうため、基本的に画数の多い漢字はひらがなかカタカナにしています。</p>
-      </li>
-      <li>
-        <p>ただ、漢字はピクトグラムのように、視覚的に意味を訴えてくる力があります。「直撃」「闇」「戦争」といった漢字を見ると、瞬時に重みと破壊力が伝わってくる気がします。書くときにも少し時間がかかる漢字だからこそ、詩の中に感じた延々と続く辛さとつながっているように思い、これらの言葉はあえて漢字表記にしました。</p>
-      </li>
-      <li>
-        <p>一方で、ひらがなにすると、言葉にふっと儚さが宿るように感じます。詩からは、平穏な時間の儚さを感じたので、「くらし」はひらがなで表記しています。</p>
-      </li>
-      <li>
-        <p>日本語には各言葉に、漢字・ひらがな・カタカナの選択肢があるため、その点においては、ウクライナ語やロシア語、英語よりも表現の幅が広がると感じました。逆に言えば、原文にない表現を訳者が作り出す部分がどうしてもあります。今回は、私が英訳を読んで感じたことを日本語で表現しています。</p>
-      </li>
-    </ul>
-  </li>
-  <li>言い回しの選択　
-    <ul>
-      <li>
-        <p>「寝よう」と「眠ろう」のどちらを使うかについてですが、「寝よう」は日常的に使う表現で軽い感じがする一方、「眠ろう」はより意図的な行為に感じたので後者を選びました。また、「眠ろう」という言葉は、ただ安らかに眠るという意味だけでなく、もしかしたら死んでしまうかもしれない、永遠の眠りについてしまうかもしれないという、不安定でぎりぎりの状況を連想させる気がします。</p>
-      </li>
-      <li>
-        <p>ウクライナ語の「як нормальні чоловік і дружина」にある「нормальні（ノルマーリニ）」のニュアンスがわからないのですが、英訳では「like an ordinary husband and wife」となっています。ただ、日本語で「平凡な夫婦」と訳すと、文化的な違いからか、「平凡な夫婦」と「裸で寝る」が同じ感覚で語られることに少し引っかかりがありました。ここでの「normal, ordinary」はあくまでも平凡な状況下でのありのままの姿を指しているのだと思い、ぴったりではないですが「ただの夫婦」としました。</p>
-      </li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="literature" /><category term="poem" /><summary type="html"><![CDATA[ナルニア ウクライナの詩人、ドミトリー・ブリズニュークによる詩『ナルニア』より一節：]]></summary></entry></feed>
+</ul>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="culture" /><category term="music" /><summary type="html"><![CDATA[最近よく聴いているのが、ウクライナのバンド「АНТИТІЛА（アンティティラ）」の曲。5人組のグループで、メンバーは実際にウクライナ軍の医療隊員として従軍していた経験を持つ。今は音楽を通して、ウクライナの人々の士気を高め、得た収益は軍の支援に充てている。ちなみに、「アンティティラ」は「抗体 (antibodies)」という意味。侵攻に抗い、国の文化や人々の生活の潤いを防衛する姿は、まさにウクライナ体内の抗体のようだ。]]></summary></entry></feed>
