@@ -1,6 +1,6 @@
 ---
 title: Policy Analysis - On selecting the criteria 
-date: 2025-9-30 04:40:00 +0900
+date: 2025-9-30 04:40:00 -0500
 year: 2025
 layout: post
 categories: [research]

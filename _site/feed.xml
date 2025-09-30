@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-30T05:00:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On selecting the criteria</title><link href="http://localhost:4000/research/2025/09/29/criteria.html" rel="alternate" type="text/html" title="Policy Analysis - On selecting the criteria" /><published>2025-09-29T15:40:00-04:00</published><updated>2025-09-29T15:40:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/criteria</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/criteria.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-30T07:38:44-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On projecting the outcome</title><link href="http://localhost:4000/research/2025/09/30/project.html" rel="alternate" type="text/html" title="Policy Analysis - On projecting the outcome" /><published>2025-09-30T07:00:00-04:00</published><updated>2025-09-30T07:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/project</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/project.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.</p>
+
+<div style="margin-top: 40px;"></div>
+
+<p>Projecting outcomes means making a <strong>reasonable prediction about the results</strong> of implementing a policy using sound methods. This can include building statistical models to estimate outcomes, applying common sense to suggest feasible ranges, or using qualitative reasoning such as case studies. The projection should include both the magnitude of the expected outcome and the uncertainty around it, often expressed as a range rather than a single point estimate.</p>
+
+<ul>
+  <li>
+    <p>One useful approach is <strong>break-even (threshold) analysis</strong>, which <strong>sets a minimum bar for success</strong> by answering the question: “What is the least the policy must achieve to justify its cost? For example, if you have $1 million to reduce juvenile crime, you might ask whether a 1%, 5%, 10%, or 15% reduction would be enough to justify that investment. Then, you assess whether the policy can realistically achieve this minimum threshold, evaluate its plausibility, estimate the probability of failure, and consider the costs of accepting that failure.</p>
+  </li>
+  <li>
+    <p><strong>Sensitivity analysis</strong> tests how outcomes change when input assumptions or variable values vary. It helps determine how much an assumption can change before the policy result falls outside the desired range.</p>
+  </li>
+  <li>
+    <p>When exact predictions aren’t feasible, <strong>scenario-based robust policy analysis</strong> can be used. This method compares a policy’s performance, without requiring precise predictions, across multiple future scenarios to identify options that perform reasonably well under a wide range of possible futures. This approach can be used for climate policy problems, where long-term analysis is required but the probability distribution of future climate outcomes is highly uncertain.</p>
+  </li>
+  <li>
+    <p>When projecting outcomes, beware of <strong>optimism bias</strong>; it’s the tendency to overlook risks and failures. Be realistic about potential future problems like budget cuts or unintended side effects.</p>
+  </li>
+  <li>
+    <p>I think there is also a phenomenon where implementing a policy can change people’s behavior that then affects the policy outcome.</p>
+  </li>
+</ul>
+
+<p>I’m interested in learning about qualitative methods for predicting outcomes, and in comparing them with quantitative approaches to understand when each is most useful.</p>
+
+<p>There are a few more topics in this chapter, but I’ll leave it here for now.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the reflection of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on projecting (or predicting) the outcome of each policy options.]]></summary></entry><entry><title type="html">Policy Analysis - On selecting the criteria</title><link href="http://localhost:4000/research/2025/09/30/criteria.html" rel="alternate" type="text/html" title="Policy Analysis - On selecting the criteria" /><published>2025-09-30T05:40:00-04:00</published><updated>2025-09-30T05:40:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/criteria</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/criteria.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.</p>
 
 <div style="margin-top: 40px;"></div>
 
@@ -67,7 +93,7 @@
 
 <p>For all these criteria, it’s helpful to characterize them both <strong>conceptually and operationally</strong> (often with quantitative measures). For example, a conceptual goal might be “minimize CO emissions from cars,” while the operational version could be “minimize the average tons of CO emissions from cars over 12 months.”</p>
 
-<p>I don’t think the book explains how this particular metric was determined. However, there are so many different ways to measure the same construct, and one should keep in mind the political economy of data—who decides what to measure and how. For example, the CO emisison example might be more scientific with fewer variations, but what if the construct is something latent, like student academic outcomes? Often, these are measured using standardized test scores and GPA, and that’s basically it. This choice actually imposes strong assumptions about what we mean by academic outcome. The plethora of ways to measure the outcome can completely change the story about whether a particular implementation is working or not, and what we are ultimately trying to achieve.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the reflection of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.]]></summary></entry><entry><title type="html">Policy Analysis - On constructing alternatives</title><link href="http://localhost:4000/research/2025/09/29/policy-options.html" rel="alternate" type="text/html" title="Policy Analysis - On constructing alternatives" /><published>2025-09-29T10:15:00-04:00</published><updated>2025-09-29T10:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-options</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-options.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.</p>
+<p>I don’t think the book explains how this particular metric was determined. However, there are so many different ways to measure the same construct, and one should keep in mind the political economy of data—who decides what to measure and how. For example, the CO emisison example might be more scientific with fewer variations, but what if the construct is something latent, like student academic outcomes? Often, these are measured using standardized test scores and GPA, and that’s basically it. This choice actually imposes strong assumptions about what we mean by academic outcome. The plethora of ways to measure the outcome can completely change the story about whether a particular implementation is working or not, and what we are ultimately trying to achieve.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the reflection of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.]]></summary></entry><entry><title type="html">Policy Analysis - On constructing alternatives</title><link href="http://localhost:4000/research/2025/09/30/policy-options.html" rel="alternate" type="text/html" title="Policy Analysis - On constructing alternatives" /><published>2025-09-30T00:15:00-04:00</published><updated>2025-09-30T00:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/policy-options</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/policy-options.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.</p>
 
 <p>Policy options should be comprehensive, though not necessarily mutually exclusive. The idea is to start with a broad list, then discard obvious nonstarters, combine or reorganize others into a basic alternative with possible variants. The book also offers helpful tips for making the list more comprehensive and creative:</p>
 
@@ -121,7 +147,7 @@
 
 <p>When creating policy options, it’s helpful to be <strong>detailed</strong>, especially about expected behaviors. Clearly describe what people involved in implementation would actually do differently compared to the current practice. For example, increasing facility inspections from once a year to twice a year.</p>
 
-<p>Once all options are brainstormed and detailed, <strong>conceptualize and simplify</strong> them. The key to conceptualization is using simple sentences and plain, short phrases stripped of jargon. Then, distinguish between a basic strategy and its variants. I think this process helps <strong>reveal the underlying core structure and logic of policy options</strong>.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.]]></summary></entry><entry><title type="html">Policy Analysis - On gathering evidence</title><link href="http://localhost:4000/research/2025/09/29/evidence.html" rel="alternate" type="text/html" title="Policy Analysis - On gathering evidence" /><published>2025-09-29T05:00:00-04:00</published><updated>2025-09-29T05:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/evidence</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/evidence.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.</p>
+<p>Once all options are brainstormed and detailed, <strong>conceptualize and simplify</strong> them. The key to conceptualization is using simple sentences and plain, short phrases stripped of jargon. Then, distinguish between a basic strategy and its variants. I think this process helps <strong>reveal the underlying core structure and logic of policy options</strong>.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.]]></summary></entry><entry><title type="html">Policy Analysis - On gathering evidence</title><link href="http://localhost:4000/research/2025/09/29/evidence.html" rel="alternate" type="text/html" title="Policy Analysis - On gathering evidence" /><published>2025-09-29T19:00:00-04:00</published><updated>2025-09-29T19:00:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/evidence</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/evidence.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.</p>
 
 <blockquote>
   <p>All of your time doing a policy analysis is spent on two activities: thinking and hustling data that can be turned into evidence. Of these two activities, thinking is generally the more important, but hustling data takes much more time… the real-world settings in which policy analysis is done rarely afford the time for a research effort that would please a careful academic researcher. In fact, time pressure is probably almost as dangerous an enemy of high-quality policy analysis as is politically motivated bias, if not more so. Therefore, economize on your data collection activities. The key to economizing is this: try to collect only those data that can be turned into information that in turn can be converted into evidence. (p. 14)</p>
@@ -573,78 +599,4 @@ this day let us switch off the war for at least one night</p>
       </li>
     </ul>
   </li>
-</ul>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="literature" /><category term="poem" /><summary type="html"><![CDATA[ナルニア ウクライナの詩人、ドミトリー・ブリズニュークによる詩『ナルニア』より一節：]]></summary></entry><entry><title type="html">Protecting the dim glow of dignity</title><link href="http://localhost:4000/japan/literature/2025/09/08/protecting.html" rel="alternate" type="text/html" title="Protecting the dim glow of dignity" /><published>2025-09-08T00:00:00-04:00</published><updated>2025-09-08T00:00:00-04:00</updated><id>http://localhost:4000/japan/literature/2025/09/08/protecting</id><content type="html" xml:base="http://localhost:4000/japan/literature/2025/09/08/protecting.html"><![CDATA[<blockquote>
-  <p>As my heart withers and cracks,<br />
-don’t blame others,<br />
-I was the one who neglected to water her<br />
- …</p>
-</blockquote>
-
-<blockquote>
-  <p>For all the disappointments,<br />
-don’t blame the era<br />
-It would be the abandonment of the dim glow of dignity</p>
-</blockquote>
-
-<blockquote>
-  <p>At the very least,<br />
-protect my own sensitivity myself<br />
-Fool</p>
-</blockquote>
-
-<div style="margin-top: 40px;"></div>
-
-<div class="vertical-poem">
-  <div>ぱさぱさに乾いてゆく心を</div>
-  <div>ひとのせいにはするな</div>
-  <div>みずから水やりを怠っておいて</div>
-  <div class="stanza-break">・・・</div> <!-- stanza break column -->
-  <div>駄目なことの一切を</div>
-  <div>時代のせいにはするな</div>
-  <div>わずかに光る尊厳の放棄</div>
-
-  <div class="stanza-break"></div> <!-- stanza break -->
-  <div>自分の感受性くらい</div>
-  <div>自分で守れ</div>
-  <div>ばかものよ</div>
-</div>
-
-<div style="margin-top: 40px;"></div>
-
-<p>It’s an excerpt from the poem “At Least My Own Sensitivity” <span lang="ja">「自分の感受性くらい」</span> by Noriko Ibaragi, published in 1977. I bought a collection of her poems curated by Shuntaro Tanikawa when I went back to my hometown in Japan earlier this year (<a href="https://www.iwanami.co.jp/book/b249030.html"><span lang="ja">「茨木のり子詩集 </span></a>). I had known of this poem before, but I wanted to remind myself of its prayer. The poem was influenced by Noriko’s own experience living through and after World War II; she was born in 1926, so she was a teenager during the war.</p>
-
-<p>At the time, there was a strong sentiment in Japan pressuring people to carry out human wave attacks and head toward imminent death to protect imperial Japan. It was called <span lang="ja">一億玉砕</span>, which literally translates to “one hundred million shattered jewels.” The imagery of shattered jewels was a deliberately chosen phrase to frame death as something instantaneous, beautiful, and honorable.</p>
-
-<p>Noriko said “as a child, I had doubts [about this way of encouraging death to the public]…, but I kept that feeling buried within me. After Japan’s defeat and the end of the war, I was convinced that the doubts I had back then were valid. If I was wrong because of my own sensitivity, I can accept that and move on. But if I was wrong because I let others take charge of my sensitivity, then that’s a disturbing feeling that I would never really be able to recover from. Sometimes, it takes decades for a single poem to be born.”</p>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<p>I think in practice, protecting one’s sensitivity isn’t always an either-or thing. It’s perhaps more about deciding what and how much you’re choosing to protect, how much you’re adjusting, and being intentional about these choices.</p>
-
-<p>As we grow older and move through different communities and relationships, we encounter shifting values. Each time, there’s a certain level of friction between how we feel and the values of the time and place we find ourselves in. If you are in the position of authority, you may choose to shift those values to your liking and even force others to live under your worldviews.</p>
-
-<p>For most other people including myself in many occasions, it becomes a matter of making difficult decisions on what to protect and what to adapt within ourselves. For people in vulnerable positions, including the minorities and those facing hard times, the range of choices available, and the impact of those choices, can be very limited. Even so, being aware of even the small choices we can make, and not handing that over to others, is something we can still retain. I think Noriko’s point about not abandoning “the dim glow of dignity” speaks to those especially difficult situations.</p>
-
-<p>For example, if your country is experiencing war, would you run, fight back, protect others, panic, or respond in some other way entirely? In much less extreme moments, such as when you’re playing a sport and your team is losing with only a few minutes left, do you stop trying or keep pushing to score? When you’re job hunting and you’re not getting anywhere (which is where I am right now), do you give up, keep applying, or try something else? It’s not necessarily that one choice is more correct than others, but it’s more about making those choices consciously; because the constellation of those choices you make is what makes you, you.</p>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<p>In translating the poem, there were a couple of choices I made.</p>
-
-<p>First was the question of voice: who is actually speaking? In Japanese, the subject is often left unsaid, so it leaves the room for interpretation. Is someone speaking to Noriko, or is she speaking to herself? About halfway through the poem, there is a line “I was the one was clumsy at everything”, so I felt that the poem is like Noriko reflecting on herself with self-discipline. In the translation, I chose to keep it in the first person, hence “my sensitivity” instead of “your sensitivity.”</p>
-
-<p>The second thing was the structure. Japanese grammar usually starts with the condition and then leads to the instruction: “when this happens, don’t blame others.”  In English, the order is flipped and we usually start with the instruction: “don’t blame others for this thing that happened.” But doing that makes the poem sound more imperative. I kept the gradual buildup of the original where the situation triggers the internal discipline.</p>
-
-<div style="margin-top: 40px;"></div>
-
-<div style="text-align: center;">
-  <img src="/images/poem.jpg" alt="A page of the book displaying an excerpt; beside it, a mug with a galaxy design; and behind them, a green light lantern." style="max-width: 60%; height: auto;" />
-</div>]]></content><author><name>nyayava</name></author><category term="japan" /><category term="literature" /><category term="poem" /><summary type="html"><![CDATA[As my heart withers and cracks, don’t blame others, I was the one who neglected to water her …]]></summary></entry></feed>
+</ul>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="literature" /><category term="poem" /><summary type="html"><![CDATA[ナルニア ウクライナの詩人、ドミトリー・ブリズニュークによる詩『ナルニア』より一節：]]></summary></entry></feed>

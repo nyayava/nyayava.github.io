@@ -1,6 +1,6 @@
 ---
 title: Policy Analysis - On gathering evidence 
-date: 2025-9-29 18:00:00 +0900
+date: 2025-9-29 18:00:00 -0500
 year: 2025
 layout: post
 categories: [research]

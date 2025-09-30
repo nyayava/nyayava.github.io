@@ -1,6 +1,6 @@
 ---
 title: Policy Analysis - On constructing alternatives 
-date: 2025-9-29 23:15:00 +0900
+date: 2025-9-29 23:15:00 -0500
 year: 2025
 layout: post
 categories: [research]
