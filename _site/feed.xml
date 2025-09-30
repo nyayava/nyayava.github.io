@@ -1,5 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-29T23:35:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On constructing alternatives</title><link href="http://localhost:4000/research/2025/09/29/policy-options.html" rel="alternate" type="text/html" title="Policy Analysis - On constructing alternatives" /><published>2025-09-29T10:15:00-04:00</published><updated>2025-09-29T10:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-options</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-options.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-30T05:00:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On selecting the criteria</title><link href="http://localhost:4000/research/2025/09/29/criteria.html" rel="alternate" type="text/html" title="Policy Analysis - On selecting the criteria" /><published>2025-09-29T15:40:00-04:00</published><updated>2025-09-29T15:40:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/criteria</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/criteria.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.</p>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="criteria-for-evaluating-the-outcome">Criteria for evaluating the outcome</h4>
+<p>This is the evaluative plotline, where you decide the criteria to assess the outcomes of a policy (not to be confused with criteria used to directly compare policy options, but rather to evaluate their projected outcomes first, which you then may compare).</p>
+
+<ul>
+  <li>
+    <p>A common criterion is <strong>efficiency</strong>, which in this case roughly translates to <strong>maximizing public interest</strong> (note that this differs from corporate efficiency which focuses on profit on one side).</p>
+
+    <p>One way to measure efficiency is <strong>cost-effectiveness analysis (CE)</strong>, which assesses how well a policy achieves the desired quantity or nature of an output without assigning a monetary value to the outcome. My understanding is that CE analysis focuses on achieving a specific <strong>fixed outcome</strong> using the least resources or cost, or alternatively, uses <strong>fixed resources</strong> to compare different possible outputs. For example, in an earthquake-prone city upgrading building safety—a fixed desired outcome—the costs include disruption to residents. CE framework may propose to minimize these costs, like scheduling construction in one season rather than another, organizing so that not all stores are closed all at once, etc.</p>
+
+    <p><strong>Cost-benefit analysis (CBA)</strong> evaluates the actual <em>value</em> of a policy’s outcomes in monetary terms. CBA calculates the net benefit by subtracting all costs from the total projected benefits, sometimes expressing this as a ratio. Because assigning monetary values to outcomes can be challenging, CEA is more commonly used.</p>
+  </li>
+  <li>
+    <p>Another evaluative criterion is <strong>equality, equity, fairness, or justice</strong>. These concepts aren’t defined in the book, but one example is affirmative action in university admissions. Some see it as promoting diverse learning environments or encouraging access to higher education for underrepresented groups. Others see it as unfair, especially if admission rates don’t reflect the proportion of applicants, disadvantaging larger groups with similar qualifications.</p>
+  </li>
+  <li>
+    <p>Other possible evaluative criteria include <strong>freedom</strong> (e.g., freedom from government interference, free markets, or capitalism).</p>
+  </li>
+  <li>
+    <p><strong>Process values</strong> also matter, such as <strong>public participation, openness, transparency, and procedural fairness</strong>. However, note that greater participation doesn’t always mean more democracy, since those with more time and resources may disproportionately shape outcomes.</p>
+  </li>
+</ul>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="prioritizing-evaluative-criteria">Prioritizing evaluative criteria</h4>
+<p>There are three general approaches to weighting different evaluative criteria.</p>
+
+<ul>
+  <li>
+    <p>One is to <strong>let existing government and officials decide</strong>, assuming they represent the interests of the public.</p>
+  </li>
+  <li>
+    <p>Another is for <strong>analysts to impose weights</strong> themselves, for example, to give more consideration to groups or values that may be underrepresented.</p>
+  </li>
+  <li>
+    <p>The third approach is to prioritize criteria based on <strong>rights</strong>, such as the right to privacy; however, which rights are valued can change over time and differ across societies.</p>
+  </li>
+</ul>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="criteria-for-assessing-practicality">Criteria for assessing practicality</h4>
+<p>While we’ve discussed criteria for assessing the outcomes of policy options, another type of criteria to consider is for assessing the practicality of implementing those options. The main ones are legality, political acceptability, administrative robustness, improvability, and policy sustainability.</p>
+
+<ul>
+  <li>
+    <p><strong>Legality</strong> - policy must not violate constitutional or common law rights. This sounds obvious, but even this is violated these days under the current administration.</p>
+  </li>
+  <li>
+    <p><strong>Political acceptability</strong> - in thinking about this, distinguish whether low acceptability comes from too much opposition or simply too little support; the latter could happen because of disinterest or lack of awareness, not necessarily opposition.</p>
+  </li>
+  <li>
+    <p><strong>Robustness</strong> - whether the policy can still produce acceptable outcomes even with poor implementation.</p>
+  </li>
+  <li>
+    <p><strong>Improvability</strong> is about whether the policy leaves room to be improved over time, especially by those involved in implementation. This component makes policy analysis iterative rather than one-time.</p>
+  </li>
+  <li>
+    <p><strong>Policy sustainability</strong> seems related to robustness, but over time and across changing political leadership or environments.</p>
+  </li>
+</ul>
+
+<p>For all these criteria, it’s helpful to characterize them both <strong>conceptually and operationally</strong> (often with quantitative measures). For example, a conceptual goal might be “minimize CO emissions from cars,” while the operational version could be “minimize the average tons of CO emissions from cars over 12 months.”</p>
+
+<p>I don’t think the book explains how this particular metric was determined. However, there are so many different ways to measure the same construct, and one should keep in mind the political economy of data—who decides what to measure and how. For example, the CO emisison example might be more scientific with fewer variations, but what if the construct is something latent, like student academic outcomes? Often, these are measured using standardized test scores and GPA, and that’s basically it. This choice actually imposes strong assumptions about what we mean by academic outcome. The plethora of ways to measure the outcome can completely change the story about whether a particular implementation is working or not, and what we are ultimately trying to achieve.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the reflection of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on selecting the criteria for evaluating the outcome and assessing the practicality of policy implementation.]]></summary></entry><entry><title type="html">Policy Analysis - On constructing alternatives</title><link href="http://localhost:4000/research/2025/09/29/policy-options.html" rel="alternate" type="text/html" title="Policy Analysis - On constructing alternatives" /><published>2025-09-29T10:15:00-04:00</published><updated>2025-09-29T10:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-options</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-options.html"><![CDATA[<p>This is a continuation of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on constructing alternatives: brainstorming possible policy options.</p>
 
 <p>Policy options should be comprehensive, though not necessarily mutually exclusive. The idea is to start with a broad list, then discard obvious nonstarters, combine or reorganize others into a basic alternative with possible variants. The book also offers helpful tips for making the list more comprehensive and creative:</p>
 
@@ -21,8 +89,9 @@
     <p>Policy analysts should also consider <strong>natural changes</strong> that could affect the scope of the problem, such as political shifts (e.g., after elections), business cycle fluctuations (e.g., unemployment), demographic trends (e.g., migration), or evolving technologies. This helps you consider policy options whilst accounting for inevitable changes, opening up possibilities that wouldn’t arise if you treated the current state as fixed.</p>
   </li>
   <li>
-    <p>Another option to include is <strong>“learn more”</strong>, which can involve running pilot programs, waiting for more information, or gathering stronger evidence. 
-  While this often sounds like an obvious good, almost like a mantra (especially in statistics conferences where “strong evidence” seems to be treated as indisputably rigorous and a good practice), I think it’s worth considering that there is a trade-off: what is the cost of inaction, or waiting for stronger evidence. Delays can have real, sometimes deadly consequences. For instance, delaying an organ transplant decision could mean losing both patients, where making a decision would have saved one life. Similarly, hesitation in providing military aid, such as the delayed defensive support to Ukraine pointed out during the Biden administration, resulted in loss of lives in Ukraine. Sometimes, the best decision is to make a decision, even with imperfect information. Of course, there’s also a flip side; some decisions made too quickly could have been much better with a bit of waiting. So it goes both ways. But again, since we’re in the brainstorming phase, the “learn more” option can stay for now; it might be ruled out later due to its known risks during later stages of the policy analysis.</p>
+    <p>Another option to include is <strong>“learn more”</strong>, which can involve running pilot programs, waiting for more information, or gathering stronger evidence.</p>
+
+    <p>While this often sounds like an obvious good, almost like a mantra (especially in statistics conferences where strong evidence seems to be treated as indisputably rigorous and a good practice), I think it’s worth considering that there is a trade-off: what is the cost of inaction, or waiting for stronger evidence. Delays can have real, sometimes deadly consequences. For instance, delaying an organ transplant decision could mean losing both patients, where making a decision would have saved one life. Similarly, hesitation in providing military aid, such as the delayed defensive support to Ukraine pointed out during the Biden administration, resulted in loss of lives in Ukraine. Sometimes, the best decision is to make a decision, even with imperfect information. Of course, there’s also a flip side; some decisions made too quickly could have been much better with a bit of waiting. So it goes both ways. But again, since we’re in the brainstorming phase, the “learn more” option can stay for now; it might be ruled out later due to its known risks during later stages of the policy analysis.</p>
   </li>
   <li>
     <p>If the options involve a <strong>continuum</strong>, like deciding appropriate rental rates for public housing, theoretically every penny change is a different option. A cleaner approach is to first establish the upper and lower limits of the acceptable range, then choose points within that range using ‘reasonable’ increments relative to the current rental rate (psychologically, an increment of around $25 might feel ‘right’).</p>
