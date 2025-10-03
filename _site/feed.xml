@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-01T07:58:00-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">Policy Analysis - On communicating the option</title><link href="http://localhost:4000/research/2025/09/30/communicate.html" rel="alternate" type="text/html" title="Policy Analysis - On communicating the option" /><published>2025-09-30T09:10:00-04:00</published><updated>2025-09-30T09:10:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/communicate</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/communicate.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on communicating your policy option to your client.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-03T11:51:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">OECD and illicit trade prevention</title><link href="http://localhost:4000/research/2025/10/03/illicit-trade.html" rel="alternate" type="text/html" title="OECD and illicit trade prevention" /><published>2025-10-03T11:00:00-04:00</published><updated>2025-10-03T11:00:00-04:00</updated><id>http://localhost:4000/research/2025/10/03/illicit-trade</id><content type="html" xml:base="http://localhost:4000/research/2025/10/03/illicit-trade.html"><![CDATA[<p>This is a summary and reflection on trade policies, as well as OECD’s efforts to prevent illicit trade.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a summary and reflection on trade policies, as well as OECD’s efforts to prevent illicit trade.]]></summary></entry><entry><title type="html">OECD trade policy</title><link href="http://localhost:4000/research/2025/10/03/oecd.html" rel="alternate" type="text/html" title="OECD trade policy" /><published>2025-10-03T10:00:00-04:00</published><updated>2025-10-03T10:00:00-04:00</updated><id>http://localhost:4000/research/2025/10/03/oecd</id><content type="html" xml:base="http://localhost:4000/research/2025/10/03/oecd.html"><![CDATA[<p>This is a summary and reflection on trade policies, as well as OECD’s efforts to prevent illicit trade.</p>
+
+<h4 id="trade-policy-methods-and-impacts">Trade policy: methods and impacts</h4>
+<p>Trade policy refers to the rules and regulations a country uses to manage its imports, exports, and international economic relationships. These regulations directly affect how much countries export and import, which in turn impacts GDP, food prices (both domestically and internationally), producer income, food security, and even environmental outcomes, depending on the types of production practices the regulations encourage or discourage.</p>
+
+<ul>
+  <li>
+    <p>One core element of trade policy is <strong>tariffs</strong>, or import duties – taxes placed on goods entering the country. The mechanism is: the U.S. importer pays the tariff to the government, then raises the price charged to U.S. customers to cover that cost, U.S. consumers pay more. Because imported goods become more expensive, the volume of foreign products entering the market typically decreases.</p>
+
+    <p>Potential pros of tariffs include generating government revenue through the collection of import taxes. Tariffs also encourage consumers to purchase domestically produced goods, which can boost domestic industries and create more domestic jobs. This can strengthen economic security by reducing reliance on foreign suppliers, especially for critical or strategic goods.</p>
+
+    <p>Potential cons of tariffs include placing a financial burden on consumers, who end up paying higher prices for imported goods. If domestic producers cannot scale up production quickly, this could lead to shortages of products. Tariffs can also trigger retaliation from other countries, which may impose their own tariffs in response, possibly hurting exporters by reducing the amount of goods they’re able to sell abroad. Also, with reduced competition from foreign producers, domestic industries may become less efficient, which can harm the domestic economy over time.</p>
+  </li>
+  <li>
+    <p>While tariffs on imports limit goods coming into a country, <strong>taxes on exports</strong> restrict goods leaving.</p>
+
+    <p>Like import tariffs, export taxes generate government revenue, as exporters must pay a tax to sell abroad. Because it becomes more expensive to export, producers may be incentivized to sell domestically, which can help stabilize local prices.</p>
+
+    <p>However, to stay competitive in foreign markets, exporters often lower their prices, reducing their net revenue. Over time, this can hurt producers’ income. Smaller export volumes can also lead to loss of international buyers, who may switch to more stable and reliable suppliers elsewhere.</p>
+  </li>
+</ul>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a summary and reflection on trade policies, as well as OECD’s efforts to prevent illicit trade.]]></summary></entry><entry><title type="html">Policy Analysis - On communicating the option</title><link href="http://localhost:4000/research/2025/09/30/communicate.html" rel="alternate" type="text/html" title="Policy Analysis - On communicating the option" /><published>2025-09-30T09:10:00-04:00</published><updated>2025-09-30T09:10:00-04:00</updated><id>http://localhost:4000/research/2025/09/30/communicate</id><content type="html" xml:base="http://localhost:4000/research/2025/09/30/communicate.html"><![CDATA[<p>This is a continuation of the reflection of the 8-fold path for policy analysis described in <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on communicating your policy option to your client.</p>
 
 <div style="margin-top: 40px;"></div>
 
@@ -179,7 +199,7 @@
 
 <p>Exploring related problems can also be helpful. For example, when studying how to reduce neighborhood resistance to low-income housing (such a Berkeley example!), it may be useful to review literature on community resistance to seemingly unrelated issues like solid waste incinerators, which may show <strong>instructive similarities</strong>.</p>
 
-<p>When gathering information, be intentional about <strong>researching perspectives from those who might disagree</strong> with your problem definition or proposed solutions. Their perspectives can help uncover blind spots and fill in missing viewpoints. I hadn’t thought about doing this so early in the analysis; I assumed it came after a policy idea was formed, during implementation, to reduce resistance from the public. But in fact, it should start from the problem-definition and problem-review stage, by gathering information not only from those you agree with, but also from those you disagree with or don’t yet understand.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.]]></summary></entry><entry><title type="html">Policy Analysis - On definining the problem</title><link href="http://localhost:4000/research/2025/09/28/policy-step-one.html" rel="alternate" type="text/html" title="Policy Analysis - On definining the problem" /><published>2025-09-28T15:15:00-04:00</published><updated>2025-09-28T15:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/28/policy-step-one</id><content type="html" xml:base="http://localhost:4000/research/2025/09/28/policy-step-one.html"><![CDATA[<p>This is a reflection on <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.</p>
+<p>When gathering information, be intentional about <strong>researching perspectives from those who might disagree</strong> with your problem definition or proposed solutions. Their perspectives can help uncover blind spots and fill in missing viewpoints. I hadn’t thought about doing this so early in the analysis; I assumed it came after a policy idea was formed, during implementation, to reduce resistance from the public. But in fact, it should start from the problem-definition and problem-review stage, by gathering information not only from those you agree with, but also from those you disagree with or don’t yet understand.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.]]></summary></entry><entry><title type="html">Policy Analysis - On definining the problem</title><link href="http://localhost:4000/research/2025/09/29/policy-step-one.html" rel="alternate" type="text/html" title="Policy Analysis - On definining the problem" /><published>2025-09-29T05:15:00-04:00</published><updated>2025-09-29T05:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-step-one</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-step-one.html"><![CDATA[<p>This is a reflection on <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.</p>
 
 <p>The 8-fold path outlined in the book is:</p>
 <ol>
@@ -233,132 +253,4 @@
   <li>In direct democracy, where citizens vote directly on policies, it can lead to the <strong>majority imposing high costs on minorities</strong>. While this may maximize overall welfare, it can harm smaller groups.</li>
   <li>In representative democracy, where citizens vote officials, the elected officials may be more <strong>influenced by organized groups</strong> than by the general public. Politicians often <strong>focus on short-term results</strong> to get reelected, rather than long-term policy effects.</li>
   <li>Rigid <strong>government procedures can impose restrictions</strong> on timeline, budget, and other resources, thereby limiting the range of realistic policy options to a small subset.</li>
-</ul>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.]]></summary></entry><entry><title type="html">ウクライナの映画「Porcelain War」（陶の戦）</title><link href="http://localhost:4000/ukraine/art/2025/09/28/porcelain.html" rel="alternate" type="text/html" title="ウクライナの映画「Porcelain War」（陶の戦）" /><published>2025-09-28T00:00:00-04:00</published><updated>2025-09-28T00:00:00-04:00</updated><id>http://localhost:4000/ukraine/art/2025/09/28/porcelain</id><content type="html" xml:base="http://localhost:4000/ukraine/art/2025/09/28/porcelain.html"><![CDATA[<div class="video-container">
-<iframe src="https://www.youtube.com/embed/JPxIHYUXeEk?si=jcQwyvXCTbJpWZKe" width="650" height="370" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</div>
-
-<div style="margin-top: 40px;"></div>
-
-<p>「Porcelain War」（陶の戦）（2024年）は、戦争禍に生きる3人のウクライナ人芸術家の日常を追ったドキュメンタリー映画である。登場するのは、陶製の人形を作るスラバ、その人形に絵付けを施すアーニャ、そして油絵の風景を描くアンドリー。彼ら・彼女らは2022年のロシアによるウクライナ侵攻を機に、クリミアを離れ、ハルキウへと移る。アンドリーは妻と双子の娘をポーランドへ避難させ、自身はカメラマンとして戦時下の状況を記録し始める。スラバは武器を手に特殊部隊に参加し、アーニャはハルキウの住まいで創作活動を続けるのであった。</p>
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="戦争当事者による内側からの視点を記録">戦争当事者による内側からの視点を記録</h4>
-<p>撮影の特徴は、被写体自身が撮影を行うエスノグラフィー的な記録手法にある。それは、外部の観察者による報道的視点とは一線を画す、当事者自身の内側からの視点である。登場する芸術家たちは当初、撮影機材に不慣れだったが、撮影を始めるにあたり、時には任務の合間に地下壕に潜り、スターリンクのインターネット回線を通じて撮影方法の指導を受けながら技術を習得していった。彼ら・彼女らが操作するカメラやドローン、体に取り付けたGoProカメラによって実際に収められた映像素材は500時間を超える。特殊部隊の隊員が肩に装着したGoProで撮影された映像には、兵士が瓦礫の中を走り続け、地下の暗闇の中、負傷した仲間のもとへ駆けつける様子も収められている。その際に聞こえる独り言や息遣いから、内部の人々が直面する現実の一端が映し出されている。</p>
-
-<p>ドキュメンタリーでは、特殊部隊の任務映像、任務先での日常、そして家に戻って行う穏やかな創作活動のシーンが交錯して映し出される。そこにはわかりやすい繋がりや起承転結はない。ただただ、極端に異なる状況を行き来する、混沌とした日々が記録されている。そんな中、アンドリーが妻と子どもをポーランドへ送り出す場面では、家族と離れて一人残された空虚感と、一方で家族が安全な場所にいるという安堵感が入り混じった、一言では表せない感情が語られる。ドキュメンタリーには、そうした整理しきれない入り組んだ心情も滲み出ている。</p>
-
-<p>また、日常生活に戦争がいかに入り込んでいるのかも見えてくる。電気のない環境で、ろうそくのわずかな灯りのもと夜を過ごす様子や、爆撃音に反応して吠える飼い犬フロドの姿。食料を確保するために、スラバとアーニャがポルチーニ茸を探しに森へ向かう場面では、苔の下に地雷が埋まっており、かつて日常の一部だった森に自由に立ち入ることすら困難になっていることがわかる。地雷を発見したスラバは、地雷注意の標識を設置し、器用な手つきでゆっくりと解除していく。「生き延びるためには冷静さが必要だ」と彼は言う。</p>
-
-<div style="margin-top: 40px;"></div>
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/_TGgRfsZIP0?si=jpE4GGyNKHqYpPTR" width="650" height="370" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</div>
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="ウクライナがウクライナであり続けるための創作活動">ウクライナがウクライナであり続けるための創作活動　</h4>
-<p>戦争が日常を蝕んでいく一方で、それでもなお、人々の生活を支えるものがある。自然や生き物、芸術、笑いが、戦争下に生きる人々にとって、癒しの薬となっている。スラバとアーニャが作った小さな子どもドラゴンの陶磁器の生き物を、兵士たちがお守りのように大切に手にする姿は印象的だ。ハルキウの自宅で、陶磁器の生き物を成形するスラバと、それに細やかな絵を描くアーニャたちの没頭した様子は、まるで瞑想をしているかのようだ。戦争についてアーニャは「この戦争によって、人の底知れぬ善良さが浮き彫りになった」とも言う。スラバは「人を怖がらせることはさほど難しくない。でも、生きることを封じるのは難しい。ウクライナはまるで陶磁器のようだ。傷つきやすいが、破壊することは決してできない」と続ける。</p>
-
-<p>ドキュメンタリーに登場する芸術家たちの作品は、いずれも息を呑むほど美しい。アンドリーが描く<a href="https://www.andreystefanov.com/">クリミアの風景</a>は淡い色合いの世界が広がっていて、アーニャとスラバが作る<a href="https://www.porcelainbeasts.com/meet-the-beasts">陶磁器の生き物たち</a>は、まるまるとした愛らしい形をしていて、その艶やかな目にはまるで命が宿っているかのようだ。創作について、アーニャは「季節の変わり目に興味があり、自然からインスピレーションを受ける」と話している。彼女の細やかな筆遣いと、柔らかくも鮮やかな色彩の感性には魅了される。同時に、四季の移ろいを楽しむ日本の感覚とも通じる、どこか懐かしい親しみも感じられる。また、陶磁器に描かれた絵が動くシーンがあるが、これはポーランドのアニメーション会社によるものである。戦争に蝕まれる生き物の姿や、色鮮やかな世界を糸で紡ぐ描写は、実写の映像とはまた違った、慈しみ深い表現に感じる。</p>
-
-<div style="margin-top: 40px;"></div>
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/2usJChoTjhI?si=vjqmoGQ2hQID59ZF" width="650" height="370" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</div>
-
-<div style="margin-top: 40px;"></div>
-
-<p>最後に、このドキュメンタリーの音楽は、四重奏団<a href="https://www.dakhabrakha.com.ua/en/about/">DakhaBrakha</a>によるウクライナ民族音楽である。DakhaBrakhaという名前は古代ウクライナ語で「与える／受け取る」を意味する。風や動物の声を模しているような抑揚と発声法には、個人的には保育園で学んだ<a href="https://youtu.be/piPXMt6j-yE?feature=shared">アイヌの民謡</a>を思わせる雰囲気を感じる。遠く離れたウクライナの芸術感性に、どこか日本の懐かしさが重なるようだった。民族音楽には、ウクライナという土地に根ざした自然と文化の長い時間の流れ、そしてそれを継承し育んできた人々の存在がある。その営みを、破壊しようと試みる侵略戦争。このドキュメンタリーは、ウクライナがウクライナであり続けるための、内側からの生活の記録である。</p>
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/cX8dyBKGGD4?si=Ai-JOQaim5c1UGOg" width="650" height="370" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</div>
-
-<div style="margin-top: 40px;"></div>
-
-<div style="text-align: center;">
-  <img src="/images/porcelain-film.jpg" alt="" style="max-width: 100%; height: auto;" />
-  <figcaption>市内のウクライナ・ソーシャル・クラブで行われたドキュメンタリー上映会。ウクライナ系アメリカ人を中心に約40人が集まりました。</figcaption>
-</div>]]></content><author><name>nyayava</name></author><category term="ukraine" /><category term="art" /><category term="documentary" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">世界各地の独立系雑誌</title><link href="http://localhost:4000/culture/literature/2025/09/21/stack.html" rel="alternate" type="text/html" title="世界各地の独立系雑誌" /><published>2025-09-21T00:00:00-04:00</published><updated>2025-09-21T00:00:00-04:00</updated><id>http://localhost:4000/culture/literature/2025/09/21/stack</id><content type="html" xml:base="http://localhost:4000/culture/literature/2025/09/21/stack.html"><![CDATA[<p>ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス<a href="https://stackmagazines.com/shop/">「Stack Magazines（スタック・マガジンズ）」</a>を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。</p>
-
-<p>雑誌には、担当者からの手紙が同封されていて、その号を選んだ理由が綴られています。それを読むと雑誌の背景がちょっとわかるので、読むときの入り口としてちょうどいい感じです。一冊の雑誌の中にはさまざまな人の作品が詰まっているので、ページをめくっていると、毎回何かしら目を引くものに出会います。</p>
-
-<p>普段自分では手に取らないようなテーマの作品にも触れられるので、知らない場所に行って寄り道をしている感覚になります。はっとするような文章に出会うこともあれば、ときには意味がつかめず迷子になってしまうこともありますが、どれも普段凝り固まっている頭をぐにゃぐにゃとストレッチするような感覚を引き起こしてくれるような気がします。</p>
-
-<p>以前、<a href="/ukraine/literature/2025/09/15/narnia">別の記事</a>で取り上げた、ウクライナ・ハルキウ市の詩人による詩「ナルニア」も、スタック・マガジンズを通して出会った作品のひとつでした。他にもいくつか印象に残っている雑誌を紹介します。</p>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<p>例えば、<a href="https://stackmagazines.com/magazine/al-hayya-2/">「Al Hayya」（الحيّة、アル・ハイヤ）</a>は、レバノン・ベイルート発の雑誌で、各ページにアラビア語と英語の両言語が並んでいます。この号のテーマはアラブ世界に生きる女性の身体で、ページをめくると、たとえば、ポールダンスを楽しむムスリムの看護師「Hijabiluscious」さんとの対談が掲載されています。「Al Hayya」は、アラビア語で「生きる」という意味だそうです。</p>
-
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 20px;">
-</div>
-
-<div style="text-align: center;">
-  <img src="/images/women1.jpg" alt="アル・ハイヤの雑誌の表紙には、アラブ世界に住む5人の女性がそれぞれ異なるファッションをまとって立っています。中央の女性は青いミニスカートのドレスにハイヒールを履き、腰に手を当てています。雑誌のタイトルは黄色で大きく、アラビア語と英語で表記されています。左側には18歳以上向けの内容であることが示されています。" style="max-width: 48%; height: auto;" />
-  <img src="/images/women2.jpg" alt="雑誌をめくると、対談の一部があり、左ページにはヒジャブ姿でポールダンスをする女性の写真と彼女の英語の発言が掲載されています。右ページには同じ内容がアラビア語で書かれています。" style="max-width: 48%; height: auto;" />
-  <figcaption style="text-align: justify;">雑誌の表紙は、5人の女性が各々のファッションをまとい立ち、黄色のタイトル文字が浮かび上がるデザイン。右の写真は、ポールダンスをするHijabilusciousさんとの対談記事の一部。自身のダンスをインスタグラムに投稿すると、誹謗中傷がつきまとうのだと言います。それに対する彼女の捉え方が印象的でした。「ポールダンサーであれば家父長制に加担していると言われ、肌を隠したら隠したでやっぱり家父長制の一端と言われる。では、いったいどちらなのか？私はそんな枠組みでの議論に乗る気がありません」とひと蹴り。読んでいてスカッとするような対談でした。雑誌には他にも、さまざまな方の対談記事や性に関する歴史的背景を探る読み物もあります。</figcaption>
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 50px;">
-</div>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<p><a href="https://stackmagazines.com/magazine/desired-landscapes-7/">「Desired Landscapes」</a>（思い描く風景）はギリシャ・アテネを拠点に置くポケットサイズのトラベルガイドのような雑誌。さまざまな場所を訪れた人たちの写真や絵、詩、エッセイが掲載されていたり、地図の表記方法など地形にまつわるテーマも取り上げています。</p>
-
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 10px;">
-</div>
-<div style="text-align: center;">
-  <img src="/images/landscapes1.jpg" alt="雑誌の表紙は、コンクリートを思わせる灰色で硬い質感。単色ながら光を反射する文字がアクセントになったシンプルなデザインです。" style="max-width: 48%; height: auto;" />
-  <img src="/images/landscapes2.jpg" alt="さまざまな地図の表記法が紹介されているページ。上の地図は家を「C」、木を「D」と文字で表記していたり。下の地図では地形の輪郭に沿って、そこで人々がどのように定住していたのかの説明文そのものが地図に載っています。どの情報を切り取ってどう表すか、いろいろなビジュアル化があります。" style="max-width: 48%; height: auto;" />
-  <figcaption style="text-align: justify;">雑誌の表紙は、コンクリートを思わせる灰色で硬い質感。単色ながら光を反射する文字がアクセントになったシンプルなデザインです。右の写真は、さまざまな地図の表記法が紹介されているページ。上の地図は家を「C」、木を「D」と文字で表記していたり。下の地図では地形の輪郭に沿って、そこで人々がどのように定住していたのかの説明文そのものが地図に載っています。どの情報を切り取ってどう表すか、いろいろなビジュアル化があります。　</figcaption>
-</div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 20px;">
-</div>
-
-<!-- add some line break, horizontal line, and another break -->
-<div style="margin-top: 40px;"></div>
-<hr style="width: 200px; margin: 10px auto; border: 0; border-top: 1px solid grey;" />
-
-<div style="margin-top: 40px;"></div>
-
-<p><a href="https://kajetjournal.com/thefutureof/product/the-future-of-ghosts/">「The Future of Ghosts」</a>（幽霊の未来）は、ルーマニア・ブカレストで出版されている、さまざまなものの未来を想像するという、哲学的な問いを扱う雑誌です。この号は幽霊に焦点を当てていて、なぜ人は幽霊を想像するのか、どのように幽霊現象を記録してきたのか、またどのような現象が幽霊として説明されるのかが綴られています。</p>
-
-<p>中には、2022年2月24日のロシア軍によるキーウ攻勢に関連して、ロシア軍機6機を撃墜したとされるウクライナの一人のパイロット、通称「キーウの幽霊」についても触れられています。ただ、これはもともとゲーム画面の動画から生まれた都市伝説なので、実際に一人のパイロットによって行われたものではないことが判明しています。にもかかわらず、当時このエピソードはSNSを通じて一気に拡散され、ウクライナの想像を超える抵抗を象徴する存在として語られるようになりました。ここでいう幽霊はパイロットを指したものだけでなく、デジタル空間にぶわっと現れる、本物なのか幻なのか判然としうない情報や、人々が信じたいと思う情報までもが「幽霊」として捉えることができるのではないかと思い、とても興味深かったです。</p>
-
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 20px;">
-</div>
-
-<div style="text-align: center;">
-  <img src="/images/ghosts1.jpg" alt="表紙には灰色の人間の顔が大きくアップで映し出されており、タイトル文字の背景には、亡霊のようにぼんやりと滲む白い光のエフェクトがかかっています。" style="max-width: 48%; height: auto;" />
-  <img src="/images/ghosts2.jpg" alt="読者に向けられた一ページ目。フランケンシュタインの写真とメッセージが掲載されている。" style="max-width: 48%; height: auto;" />
-  <figcaption style="text-align: justify;">一ページ目にはフランケンシュタインの写真と読者へのメッセージがあります。</figcaption>
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 50px;">
-</div>
-
-<p>なぜ幽霊について取り上げるのか。その手がかりとして、雑誌の読者へのメッセージの一部を紹介して終わりにしたいと思います。</p>
-<blockquote>
-  <p>「読者へ。幽霊への渇望は、現代社会への不満の表れであり、今という時間がつかみどころのないものとなり、未来が不毛に感じられていることの兆候でもある。ここでいう幽霊への関心は、時代遅れやただの奇妙なもの好きといった、周縁的な奇癖ではなく、まさに時代が抱える本質的な状態を映し出すものだ。</p>
-</blockquote>
-
-<blockquote>
-  <p>幽霊という存在は、私たちの絶え間ない変化への欲求や、ある何かに抱く懐かしさによって育まれている。その「何か」は、まだ実在していないかもしれないが、想像し、やがて形にすることもできる。幽霊の幻影は、現実か不可能かすら定かでない風景の中を進む私たちの案内人であり、未知なもの・予測不能なもの・目に見えないものを思索することが、決して異端ではないということを思い出させてくれる存在なのだ。」</p>
-</blockquote>
-
-<p>“Dear reader, Longing for ghosts is a symptom of discontent with modern society, an indication that the present has become ungraspable and the future sterile. Our interest in ghosts is not a fringe eccentricity that signifies backwardness or sheer fascination with the obscure, but a consequential condition of our times.</p>
-
-<p>This spectral figure of the ghost is, in fact, fed by our constant craving for change, by a nostalgia for a certain something. This certain something may not exist yet, but it can be imagined and then shaped. The ghost is our guide through (im)possible terrains in the making, our reminder that contemplating the unknown, the unpredictable, and the unseen is not some sort of heresy.”</p>]]></content><author><name>nyayava</name></author><category term="culture" /><category term="literature" /><category term="book" /><summary type="html"><![CDATA[ここ一年ほど、独立系雑誌をランダムに毎月届けてくれるサブスクリプション・サービス「Stack Magazines（スタック・マガジンズ）」を利用していました。文芸、ファッション、哲学、アートなどジャンルはさまざま。月の初めになると「今月はどんな雑誌が届くんだろう」と、ちょっとワクワクしてました。]]></summary></entry></feed>
+</ul>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.]]></summary></entry></feed>

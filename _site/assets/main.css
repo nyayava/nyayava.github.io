@@ -294,6 +294,13 @@ section[lang=ja] p {
 }
 
 /**
+ * Font 
+ */
+.medium-bold {
+  font-weight: 400;
+}
+
+/**
  * Site header
  */
 .site-header {
