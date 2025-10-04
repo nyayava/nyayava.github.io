@@ -1,5 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-03T23:27:14-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
-</subtitle><author><name>nyayava</name></author><entry><title type="html">OECD and illicit trade prevention</title><link href="http://localhost:4000/research/2025/10/03/illicit-trade.html" rel="alternate" type="text/html" title="OECD and illicit trade prevention" /><published>2025-10-03T11:00:00-04:00</published><updated>2025-10-03T11:00:00-04:00</updated><id>http://localhost:4000/research/2025/10/03/illicit-trade</id><content type="html" xml:base="http://localhost:4000/research/2025/10/03/illicit-trade.html"><![CDATA[<p>This is a summary and reflection on OECD’s efforts to prevent illicit trade.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T04:49:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nyayava’s blog</title><subtitle>language, art, life, random thoughts
+</subtitle><author><name>nyayava</name></author><entry><title type="html">OECD and illicit trade detection</title><link href="http://localhost:4000/research/2025/10/04/illicit-trade.html" rel="alternate" type="text/html" title="OECD and illicit trade detection" /><published>2025-10-04T04:00:00-04:00</published><updated>2025-10-04T04:00:00-04:00</updated><id>http://localhost:4000/research/2025/10/04/illicit-trade</id><content type="html" xml:base="http://localhost:4000/research/2025/10/04/illicit-trade.html"><![CDATA[<p>A <a href="https://www.oecd.org/en/publications/global-trade-in-fakes_74c81154-en.html">study</a> based on 2021 global customs seizure data studied key characteristics of trade in counterfeit goods and estimated its scale, impact, and effects on the EU.</p>
+
+<p>The findings indicate that counterfeit and pirated goods accounted for <strong>2.3%</strong> of global trade (equivalent to USD 467 billion or 約69兆円). Within the EU, fake goods made up 4.7% of total imports. In terms of product categories, 50 out of 96 categories are affected. High-value goods such as clothing, footwear, leather products, and electronics are the top targets. The data also highlights the presence of dangerous counterfeit items, including automotive parts and pharmaceuticals. Trade routes are continuously evolving, as counterfeiters increasingly exploit international shipping channels and adopt localization strategies to produce fake goods closer to end markets. The General Trade-Related Index of Counterfeiting (GTRIC) estimates the likelihood of specific countries being major sources of counterfeit exports, with China, Bangladesh, Lebanon, the Syrian Arab Republic, and Turkey ranking high.</p>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="how-are-illicit-trades-detected">How are illicit trades detected?</h4>
+<p>Ideally, if the goal is to prevent illicit trade, all packages would be inspected, but this isn’t possible due to the sheer volume of global trade. Instead, only a small share of shipments are inspected based on risk targeting by customs officers who flag items as suspicious through documentation, profiling, or physical inspection. The study mentions some characteristics that signal suspicious shipment:</p>
+
+<ul>
+  <li>
+    <p><strong>Small parcels</strong>: 79% of seizures in 2020-2021  involved parcels with fewer than 10 items. This is extremely hard to detect because invoices are vague (e.g. “stuff” or “daily necessities”) and air cargo hubs are not equipped to screen them.</p>
+  </li>
+  <li>
+    <p><strong>Localisation tactics</strong>: Counterfeiters often ship packaging and component parts separately, or they assemble goods inside FTZs or near the destination. This strategy reduces the chance of detection and avoids scrutiny. 
+There may be other signals, such as suspicious route that detours through FTZs, unusually low declared value, mismatch between reported product and image scanned product, history of sender, and so on.</p>
+  </li>
+</ul>
+
+<p>As for <strong>risk indices</strong> to target inspection, the GTRIC-e and GTRIC-p indices are used. GTRIC-e (economies) measures a country’s (economy’s) propensity to be a source of counterfeit exports. GTRIC-p (products) measures a product category’s propensity to be prone to counterfeiting.</p>
+
+<p>From what I understand, these indices are not estimated based on statistical models, but are estimated based on summary statistics of observed data. For example, for GTRIC-p, the counterfeiting factor index is calculated based on data as the proportion of seizures of a particular product relative to the total trade volume of that product across countries. This is calculated for all product categories, so we get a sampling distribution of proportions across categories. The distribution is highly right-skewed to the right, with most products having a small index, so a log transformation is applied. A left-truncated normal distribution is then assumed to estimate the probabilities of counterfeiting a given product.</p>
+
+<p>The study use two datasets: trade data and seizure data.</p>
+<ul>
+  <li>In the trade data, each observation is defined by a product category, country pair, and year. Variables include the product code, origin and destination countries, and the value of imports.</li>
+  <li>The seizure data includes around 297,000 records from 2020–2021. Variables cover product category, country of origin, transport mode, value of goods, and quantity. However, there are coverage gaps, as not all customs authorities share data, and enforcement levels vary across regions.</li>
+</ul>
+
+<p>The report calls for improved risk profiling through the use of AI, enhanced data sharing, and closer collaboration with industries and rights holders who have expertise in identifying counterfeit goods.</p>
+
+<div style="margin-top: 40px;"></div>
+
+<h4 id="improving-detection-accuracy">Improving detection accuracy</h4>
+<p>It seems there are opportunities to improve detection accuracy from a data collection and modeling perspective.</p>
+
+<p>What kinds of data would be most useful to collect? Currently, they have access to basic variables like origin, destination, product type, declared value, quantity, and transport mode. Perhaps adding more granular socioeconomic indicators of the source region, beyond just the country level, could help?</p>
+
+<p>As for modeling, using statistical models to estimate the probability of a shipment being illicit based on combinations of these variables might improve accuracy. However, this is a probably very hard detection problem, regardless of additional variables we collect and refinement of modeling. Given the occurrence rate of about 2%, within the context of massive trade volumes, this is a rare event modeling. The prediction accuracy is only going to be so high. On top of that, customs officials are already stretched thin, inspecting drugs, weapons, terrorism, and other risks.</p>
+
+<h4 id="holding-counterfeiter-accountable">Holding counterfeiter accountable</h4>
+<p>Instead of treating this solely as a prediction or detection problem, could we also approach it from the perspective of accountability? For example, even if a small number of counterfeiters are identified, making sure that they face real consequences, such as fines, penalties, or bans from trading, could act as a deterrent and also partially address the revenue losses caused by illicit trade. We can measure the effect of such implementation.</p>
+
+<h4 id="incentives-for-supply-and-demand-of-counterfeit-goods">Incentives for supply and demand of counterfeit goods</h4>
+<p>Another perspective is the incentives structure that drive counterfeiters to engage in illicit trade, as well as the demand for counterfeit goods—both intentional and unintentional. The <a href="https://www.oecd.org/en/publications/why-do-countries-import-fakes_8a4a4508-en.html">report</a> examines the demand side, distinguishing between two types of consumers. Unintentional demand comes from consumers who are deceived; this group accounts for 46% of counterfeit and pirated imports. Intentional demand involves consumers who knowingly purchase counterfeits, often due to price or accessibility; this accounts for approximately 54% of counterfeit and pirated imports between 2017 and 2019. The report also identifies several factors correlated with the value of counterfeit imports. Countries with higher GDP per capita tend to import fewer fakes, while countries with better trade and transport infrastructure, and greater internet use, tertiary education, are positively correlated with higher volumes of counterfeit imports (possibly by the ability to search for good bargains online).</p>
+
+<h4 id="fake-goods-and-fake-information">Fake goods and fake information</h4>
+<p>There appears to be a connection between the challenge of detecting fake products and the broader issue of fake information on digital platforms. This raises more philosophical questions: What does it mean for something to be fake, and why do fakes emerge in the first place? How are fakes detected and confirmed in each case? What is the required cost for detecting and proving something as fake? How are those responsible held accountable? And why do people buy, see value, or even spread fake goods or information—whether knowingly or not?</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[A study based on 2021 global customs seizure data studied key characteristics of trade in counterfeit goods and estimated its scale, impact, and effects on the EU.]]></summary></entry><entry><title type="html">OECD and illicit trade prevention</title><link href="http://localhost:4000/research/2025/10/03/illicit-trade.html" rel="alternate" type="text/html" title="OECD and illicit trade prevention" /><published>2025-10-03T11:00:00-04:00</published><updated>2025-10-03T11:00:00-04:00</updated><id>http://localhost:4000/research/2025/10/03/illicit-trade</id><content type="html" xml:base="http://localhost:4000/research/2025/10/03/illicit-trade.html"><![CDATA[<p>This is a summary and reflection on OECD’s efforts to prevent illicit trade.</p>
 
 <p><strong>Illicit trade</strong> refers to the illegal production, movement, and sale of goods and services—including counterfeit (fake) products, pirated products (e.g. unauthorized copies), fake medicines, cultural artefacts, smuggled goods, wildlife trafficking, and illegal logging. (Human trafficking is in a separate domain in the OECD.) Often operated by criminal networks, illicit trade threatens public health, safety and undermines legal markets.</p>
 
@@ -15,7 +62,7 @@
 <div style="margin-top: 40px;"></div>
 
 <h4 id="code-for-countering-illicit-trade">Code for countering illicit trade</h4>
-<p>To counter illicit trade, the OECD issued a <strong>Recommendation in 2019</strong> aimed at improving transparency and oversight in FTZs. It includes a Code of Conduct that encourages tracking data, sharing it with authorities when needed, and identifying compliant vs. non-compliant zones.</p>
+<p>To counter illicit trade, the OECD issued a <strong><a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0454">Recommendation in 2019</a></strong> aimed at improving transparency and oversight in FTZs. It includes a Code of Conduct that encourages tracking data, sharing it with authorities when needed, and identifying compliant vs. non-compliant zones.</p>
 
 <p>The Code outlines five key areas:</p>
 
@@ -264,58 +311,4 @@
 
 <p>Exploring related problems can also be helpful. For example, when studying how to reduce neighborhood resistance to low-income housing (such a Berkeley example!), it may be useful to review literature on community resistance to seemingly unrelated issues like solid waste incinerators, which may show <strong>instructive similarities</strong>.</p>
 
-<p>When gathering information, be intentional about <strong>researching perspectives from those who might disagree</strong> with your problem definition or proposed solutions. Their perspectives can help uncover blind spots and fill in missing viewpoints. I hadn’t thought about doing this so early in the analysis; I assumed it came after a policy idea was formed, during implementation, to reduce resistance from the public. But in fact, it should start from the problem-definition and problem-review stage, by gathering information not only from those you agree with, but also from those you disagree with or don’t yet understand.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.]]></summary></entry><entry><title type="html">Policy Analysis - On definining the problem</title><link href="http://localhost:4000/research/2025/09/29/policy-step-one.html" rel="alternate" type="text/html" title="Policy Analysis - On definining the problem" /><published>2025-09-29T05:15:00-04:00</published><updated>2025-09-29T05:15:00-04:00</updated><id>http://localhost:4000/research/2025/09/29/policy-step-one</id><content type="html" xml:base="http://localhost:4000/research/2025/09/29/policy-step-one.html"><![CDATA[<p>This is a reflection on <em>A Practical Guide for Policy Analysis</em> by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.</p>
-
-<p>The 8-fold path outlined in the book is:</p>
-<ol>
-  <li>Define the problem</li>
-  <li>Assemble some evidence</li>
-  <li>Construct the alternatives</li>
-  <li>Select the criteria</li>
-  <li>Project the outcomes</li>
-  <li>Confront the trade-offs</li>
-  <li>Stop, focus, narrow, deepen, decide</li>
-  <li>Tell your story</li>
-</ol>
-
-<div style="margin-top: 40px;"></div>
-
-<h4 id="define-the-problem">Define the problem</h4>
-<p>There’s no one-size-fits-all approach to problem definition. Instead, there are some pointers to help frame the problem and pitfalls to avoid.</p>
-
-<ul>
-  <li>
-    <p>Consider <strong>who is experiencing the problem?</strong> (the book calls this the issue of rhetoric). Problems are often framed by clients within a specific political context; they may define issues narrowly as technical issues or frame it in ways that deviates largely from the public. For example, the problem may be defined by those that are vocal or articulate, who may represent extreme positions. Policy analysts typically aim for a consensus using the normative standard of ‘maximizing overall welfare’.</p>
-
-    <p>— I am curious about the benefit of defining a problem in a bottom-up way, as experienced by vulnerable groups who may not have the opportunity to voice their problems to appropriate platforms. That is, intentionally asking: whose voice is missing? And how can the societal system reduce their burden? This does not necessarily have to be a zero-sum situation, where the ‘other’ group is harmed. Everyone is vulnerable in some way. Centering the problem definition around the most vulnerable in a particular aspect under consideration could lead us to consider inclusive actions that benefit the majority, including the vulnerable. For example, having slopes in addition to (or instead of) stairs benefits not only those who use wheeled devices but also those who do not. 
-  <!-- <span style="color:#888888;"></span> --></p>
-  </li>
-  <li>
-    <p>Explain <strong>why does the problem matter?</strong> (the book describes it as ‘making the definition evaluative’). A problem means someone sees something wrong, but “wrong” is debatable. Even if everyone agrees on the facts, they may not agree those facts are a problem (!).</p>
-
-    <p>For example, 65% of food consumed in Japan comes from abroad; some see this as a problem, others don’t. Also, some problems are so private or localized that government intervention may not help. The problem definition should explain why it matters, not just to a small group, but broadly to the public. Rephrasing the previous problem as ‘heavy reliance on imported food risks food supply’ This way, it becomes a shared concern of access to food. Potential causes of food supply disruption, like political or transport failures, are causal claims, so I’ll omit them from the problem definition for now.</p>
-  </li>
-  <li>
-    <p><strong>Make the statement objective</strong> when possible. Problem definitions should include quantified features when possible; how much is too high or too little? For example, saying “too many people with annual incomes over $60k live in subsidized housing” is clearer than claims about the “relatively well-off.”</p>
-
-    <p>My question is how is this number, $60k, determined? This itself requires research, as it likely depends on local housing costs, household expenses, etc.</p>
-  </li>
-  <li>
-    <p><strong>Identify systemic problems</strong> when necessary (what book calls latent opportunities). Policy agendas are often driven by complaints, threats, or crises, and require reactive responses that treat the system as fixed. This may be like firefighters responding after a fire starts. In contrast, proactive approaches aim to prevent problems by addressing root causes and questioning the system’s underlying conditions. It’s not about one being more important than the other, but both are needed. When defining a problem, one can avoid narrowing the scope of opportunities to specific solution sets.</p>
-  </li>
-  <li>
-    <p><strong>Don’t smuggle the solution</strong> into the problem definition. For example, saying “there is too little shelter for homeless families” assumes the solution is more shelters. Instead, state only the problem, like “too many families are homeless,” which allows for a wider range of possible solutions.</p>
-  </li>
-  <li>
-    <p><strong>Don’t smuggle the cause</strong> of the problem. For example, saying “too many parents believe vaccines cause autism” suggests that parents’ belief is the reason for low vaccination rates. However, changing beliefs may not be necessary, as a study indicates that simply requiring vaccines for school entry increased vaccination rates, regardless of beliefs.</p>
-  </li>
-</ul>
-
-<div style="margin-top: 40px;"></div>
-
-<p>While defining the problem, we need to be aware of the <strong>limitations of the government intervention</strong>. Government intervention does not guarantee improvement, as its incentives may not lead to efficient outcomes or fair distribution. There are several sources of government failure:</p>
-<ul>
-  <li>In direct democracy, where citizens vote directly on policies, it can lead to the <strong>majority imposing high costs on minorities</strong>. While this may maximize overall welfare, it can harm smaller groups.</li>
-  <li>In representative democracy, where citizens vote officials, the elected officials may be more <strong>influenced by organized groups</strong> than by the general public. Politicians often <strong>focus on short-term results</strong> to get reelected, rather than long-term policy effects.</li>
-  <li>Rigid <strong>government procedures can impose restrictions</strong> on timeline, budget, and other resources, thereby limiting the range of realistic policy options to a small subset.</li>
-</ul>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a reflection on A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). The book gives a general framework for thinking through policy design and analysis. I’m interested in understanding how statistics, causal inference methods, and algorithmic tools can serve in the broader process of policymaking. The following includes paraphrased content from the book, along with my own questions and reflections.]]></summary></entry></feed>
+<p>When gathering information, be intentional about <strong>researching perspectives from those who might disagree</strong> with your problem definition or proposed solutions. Their perspectives can help uncover blind spots and fill in missing viewpoints. I hadn’t thought about doing this so early in the analysis; I assumed it came after a policy idea was formed, during implementation, to reduce resistance from the public. But in fact, it should start from the problem-definition and problem-review stage, by gathering information not only from those you agree with, but also from those you disagree with or don’t yet understand.</p>]]></content><author><name>nyayava</name></author><category term="research" /><category term="policy" /><summary type="html"><![CDATA[This is a continuation of the 8-fold path for policy analysis described in A Practical Guide for Policy Analysis by Eugene Bardach and Eric M. Patashnik (6th edition, 2020). This section is on gathering evidence: information that helps answer the problem you have defined.]]></summary></entry></feed>

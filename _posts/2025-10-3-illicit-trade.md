@@ -29,7 +29,7 @@ Another issue the WP-CIT deals with is the recent abuse of Free Trade Zones ([FT
 
 
 #### Code for countering illicit trade 
-To counter illicit trade, the OECD issued a **Recommendation in 2019** aimed at improving transparency and oversight in FTZs. It includes a Code of Conduct that encourages tracking data, sharing it with authorities when needed, and identifying compliant vs. non-compliant zones. 
+To counter illicit trade, the OECD issued a **[Recommendation in 2019](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0454)** aimed at improving transparency and oversight in FTZs. It includes a Code of Conduct that encourages tracking data, sharing it with authorities when needed, and identifying compliant vs. non-compliant zones. 
 
 The Code outlines five key areas:
 
